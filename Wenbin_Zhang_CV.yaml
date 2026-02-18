@@ -69,7 +69,7 @@ cv:
         start_date: 2019-09
         end_date: 2023-07
         highlights:
-          - "Advisor: Prof. Yong Ge."
+          - "Supervisor: Prof. Yong Ge."
           - "Developed the entropogram framework for multiscale spatial association and scaling analysis of geospatial data."
           - "Designed scalable spatial interpolation methods for heterogeneous and uncertain spatial data."
 
@@ -88,7 +88,7 @@ cv:
         start_date: 2017-10
         end_date: 2018-08
         highlights:
-          - "Host: Prof. Yee Leung."
+          - "Supervisor: Prof. Yee Leung."
           - "Quality assessment of volunteered geographic information (VGI) data."
 
     Education:
@@ -141,8 +141,7 @@ cv:
           - "Woods, D."
           - "et al."
         journal: "Journal of Urban Health"
-        date: "2026"
-        url: "https://doi.org/10.1007/s11524-026-01077-z"
+        date: 2026
 
       - title: "[Assessing context-dependent effectiveness of heat adaptation through human mobility under different heatwave regimes](https://doi.org/10.1016/j.scs.2025.107066)"
         authors:
@@ -154,7 +153,6 @@ cv:
           - "Lai, S."
         journal: "Sustainable Cities and Society"
         date: "2026"
-        url: "https://doi.org/10.1016/j.scs.2025.107066"
 
       - title: "[A stochastic approach to integerize floating-point estimates in gridded population mapping](https://doi.org/10.1080/13658816.2025.2568721)"
         authors:
@@ -171,7 +169,6 @@ cv:
           - "Bondarenko, M."
         journal: "International Journal of Geographical Information Science"
         date: "2025"
-        url: "https://doi.org/10.1080/13658816.2025.2568721"
 
       - title: "[Assessing the impacts of gridded population model choice on degree of urbanisation metrics](https://doi.org/10.1016/j.cities.2025.106293)"
         authors:
@@ -188,7 +185,6 @@ cv:
           - "Sorichetta, A."
         journal: "Cities"
         date: "2025"
-        url: "https://doi.org/10.1016/j.cities.2025.106293"
 
       - title: "[High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023)](https://doi.org/10.12688/verixiv.1584.1)"
         authors:
@@ -199,7 +195,6 @@ cv:
           - "et al."
         journal: "VeriXiv"
         date: "2025"
-        url: "https://doi.org/10.12688/verixiv.1584.1"
 
       - title: "[Optimizing the detection of emerging infections using mobility-based spatial sampling](https://doi.org/10.1016/j.jag.2024.103949)"
         authors:
@@ -211,7 +206,6 @@ cv:
           - "et al."
         journal: "International Journal of Applied Earth Observation and Geoinformation"
         date: "2024"
-        url: "https://doi.org/10.1016/j.jag.2024.103949"
 
       - title: "[Scaling Geospatial Data from the Perspective of Complexity: Exploring the Scaling Behavior of the Entropogram](https://doi.org/10.1080/24694452.2024.2377227)"
         authors:
@@ -221,7 +215,6 @@ cv:
           - "Atkinson, P. M."
         journal: "Annals of the American Association of Geographers"
         date: "2024"
-        url: "https://doi.org/10.1080/24694452.2024.2377227"
 
       - title: "[Effects of public-health measures for zeroing out different SARS-CoV-2 variants](https://doi.org/10.1038/s41467-023-40940-4)"
         authors:
@@ -231,7 +224,6 @@ cv:
           - "et al."
         journal: "Nature Communications"
         date: "2023"
-        url: "https://doi.org/10.1038/s41467-023-40940-4"
 
       - title: "[Spatial Association from the Perspective of Mutual Information](https://doi.org/10.1080/24694452.2023.2209629)"
         authors:
@@ -243,7 +235,6 @@ cv:
           - "Atkinson, P. M."
         journal: "Annals of the American Association of Geographers"
         date: "2023"
-        url: "https://doi.org/10.1080/24694452.2023.2209629"
 
       - title: "[Data-Driven Models Informed by Spatiotemporal Mobility Patterns for Understanding Infectious Disease Dynamics](https://doi.org/10.3390/ijgi12070266)"
         authors:
@@ -255,7 +246,6 @@ cv:
           - "Lai, S."
         journal: "ISPRS International Journal of Geo-Information"
         date: "2023"
-        url: "https://doi.org/10.3390/ijgi12070266"
 
       - title: "[Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories](https://doi.org/10.1038/s41467-022-30897-1)"
         authors:
@@ -265,7 +255,6 @@ cv:
           - "et al."
         journal: "Nature Communications"
         date: "2022"
-        url: "https://doi.org/10.1038/s41467-022-30897-1"
 
       - title: "[Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space](https://doi.org/10.1016/j.jag.2021.102649)"
         authors:
@@ -275,7 +264,6 @@ cv:
           - "et al."
         journal: "International Journal of Applied Earth Observation and Geoinformation"
         date: "2022"
-        url: "https://doi.org/10.1016/j.jag.2021.102649"
 
       - title: "[Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modelling study in China](https://doi.org/10.1186/s12889-021-10624-z)"
         authors:
@@ -285,7 +273,6 @@ cv:
           - "et al."
         journal: "BMC Public Health"
         date: "2021"
-        url: "https://doi.org/10.1186/s12889-021-10624-z"
 
       - title: "[Ranking of VGI contributor reputation using an evaluation-based weighted PageRank](https://doi.org/10.1111/tgis.12735)"
         authors:
@@ -295,16 +282,14 @@ cv:
           - "**Zhang Wen-Bin**"
         journal: "Transactions in GIS"
         date: "2021"
-        url: "https://doi.org/10.1111/tgis.12735"
 
-      - title: "[A location-and-form-based distance for geographical analysis](https://doi.org/10.1080/24694452.2020.1869734)"
+      - title: "[A location-and-form-based distance for geographical analysis](https://doi.org/10.1080/24694452.2020.1785269)"
         authors:
           - "Zhou, Y."
           - "Leung, Y."
           - "**Zhang Wen-Bin**"
         journal: "Annals of the American Association of Geographers"
         date: "2021"
-        url: "https://doi.org/10.1080/24694452.2020.1869734"
 
       - title: "[A georeferenced graph model for geospatial data matching by optimising measures of similarity across multiple scales](https://doi.org/10.1080/13658816.2020.1858301)"
         authors:
@@ -314,7 +299,6 @@ cv:
           - "Zhou, Y."
         journal: "International Journal of Geographical Information Science"
         date: "2021"
-        url: "https://doi.org/10.1080/13658816.2020.1858301"
 
       - title: "[Risk assessment of the step-by-step return-to-work policy in Beijing following the COVID-19 epidemic peak](https://doi.org/10.1007/s00477-020-01929-3)"
         authors:
@@ -324,7 +308,6 @@ cv:
           - "et al."
         journal: "Stochastic Environmental Research and Risk Assessment"
         date: "2020"
-        url: "https://doi.org/10.1007/s00477-020-01929-3"
 
       - title: "[Analysis of positional uncertainty of road networks in volunteered geographic information with a statistically defined buffer-zone method](https://doi.org/10.1080/13658816.2019.1606430)"
         authors:
@@ -333,7 +316,6 @@ cv:
           - "Ma, J. H."
         journal: "International Journal of Geographical Information Science"
         date: "2019"
-        url: "https://doi.org/10.1080/13658816.2019.1606430"
 
       - title: "Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City"
         authors:
@@ -366,7 +348,6 @@ cv:
           - "et al."
         journal: "UNIMI Dataverse"
         date: "2026"
-        url: "https://doi.org/10.13130/RD_UNIMI/YFNFZC"
 
       - title: "[2024 total number of people under the age of 18 per grid square (R2024A v1.0)](https://doi.org/10.5258/SOTON/WP00799)"
         authors:
@@ -376,7 +357,6 @@ cv:
           - "et al."
         journal: "WorldPop / University of Southampton"
         date: "2024"
-        url: "https://doi.org/10.5258/SOTON/WP00799"
 
       - title: "[2024 total number of people (under age one) per grid square (R2024A v1.0)](https://doi.org/10.5258/SOTON/WP00798)"
         authors:
@@ -387,7 +367,6 @@ cv:
           - "et al."
         journal: "WorldPop / University of Southampton"
         date: "2024"
-        url: "https://doi.org/10.5258/SOTON/WP00798"
 
 design:
   theme: classic

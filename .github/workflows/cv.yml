@@ -1,4 +1,5 @@
 name: Build and Publish CV
+
 on:
   push:
     branches: [ main ]
@@ -12,6 +13,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -25,11 +27,22 @@ jobs:
       - name: Render CV
         run: rendercv render Wenbin_Zhang_CV.yaml --dont-generate-png
 
-      - name: Prepare Pages site
+      - name: Locate and prepare output
         run: |
+          echo "=== Searching for PDF ==="
+          find . -type f -name "*.pdf"
+
+          PDF_PATH=$(find . -type f -name "*.pdf" | head -n 1)
+
+          if [ -z "$PDF_PATH" ]; then
+            echo "❌ No PDF generated."
+            exit 1
+          fi
+
+          echo "Found PDF at: $PDF_PATH"
+
           mkdir -p site
-          cp rendercv_output/Wenbin_Zhang_CV.pdf site/cv.pdf
-          if [ -f rendercv_output/Wenbin_Zhang_CV.html ]; then cp rendercv_output/Wenbin_Zhang_CV.html site/index.html; fi
+          cp "$PDF_PATH" site/cv.pdf
 
       - uses: actions/upload-pages-artifact@v3
         with:

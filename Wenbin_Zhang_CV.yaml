@@ -1,190 +1,218 @@
-# yaml-language-server: $schema=https://github.com/rendercv/rendercv/blob/main/schema.json?raw=true
-
 cv:
-  name: "Wenbin Zhang (张文彬)"
-  headline: "Senior Research Fellow (FuturePop) | WorldPop, University of Southampton"
-  location: "Southampton, UK"
-  email: "wb.zhang@soton.ac.uk"
+  name: WENBIN ZHANG (张文彬)
+  headline: Senior Research Fellow — WorldPop, University of Southampton
+  location: Southampton, United Kingdom
+  email: wb.zhang@soton.ac.uk
   phone: "+44-7397073935"
-  website: "https://www.researchgate.net/profile/Wenbin-Zhang-6"
+  website: https://www.researchgate.net/profile/Wenbin-Zhang-6
+
+  social_networks:
+    - network: ORCID
+      username: 0000-0002-9295-1019
+
+  custom_connections:
+    - placeholder: Scopus Author ID
+      url: https://www.scopus.com/authid/detail.uri?authorId=57208577846
+    - placeholder: Publons/WoS
+      url: https://publons.com/researcher/AAJ-9167-2021/
 
   sections:
+
     Research interests:
-      - "Geographical Information Science (GIScience); spatial uncertainty; health geography; spatial heterogeneity; error propagation."
+      - Geographical Information Science (GIScience); spatial uncertainty; spatial heterogeneity; error propagation; health geography; gridded population mapping; urbanisation metrics (DEGURBA).
 
-    Identifiers:
-      - bullet: "ORCID: 0000-0002-9295-1019"
-      - bullet: "Scopus ID: 57208577846"
-      - bullet: "Publons/WoS: AAJ-9167-2021"
-
-    Academic appointments & research experience:
-      - company: "WorldPop, University of Southampton"
-        position: "Senior Research Fellow (FuturePop)"
-        date:
-          start_date: "2026-02"
-          end_date: "present"
-        location: "Southampton, UK"
+    Academic appointments:
+      - company: WorldPop, University of Southampton
+        location: Southampton, UK
+        position: Senior Research Fellow (FuturePop)
+        start_date: 2026-02
+        end_date: present
         highlights:
-          - "Add 3–6 bullets: deliverables (datasets/tools/papers), stakeholders, and any metrics."
+          - FuturePop project: population surfaces and indicators for policy and planning.
 
-      - company: "WorldPop, University of Southampton"
-        position: "Research Fellow (DEGURBA)"
-        date:
-          start_date: "2023-08"
-          end_date: "2026-02"
-        location: "Southampton, UK"
+      - company: WorldPop, University of Southampton
+        location: Southampton, UK
+        position: Research Fellow (DEGURBA)
+        start_date: 2023-08
+        end_date: 2026-02
         highlights:
-          - "Add 3–6 bullets: methods developed, validation, indicators delivered, publications."
+          - DEGURBA research: assessing Degree of Urbanisation metrics using alternative gridded population models.
+          - Produced harmonised DEGURBA outputs and documentation for cross-country comparisons.
 
-      - company: "Institute of Geographic Sciences and Natural Resources Research"
-        position: "Research Assistant / PhD Candidate"
-        date:
-          start_date: "2019-09"
-          end_date: "2023-07"
-        location: "Beijing, China"
-        summary: "Advisor: Prof. Yong Ge"
+      - company: Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
+        location: Beijing, China
+        position: Research Assistant / PhD Student
+        start_date: 2019-09
+        end_date: 2023-07
         highlights:
-          - "Developed a novel measure of spatial association for Earth science / geospatial data."
-          - "Investigated scaling behaviour across spatial resolutions / supports."
-          - "Designed a scalable spatial interpolation method based on the new measure."
+          - "Advisor: Prof. Yong Ge"
+          - Constructed a new measure of spatial association for Earth science data.
+          - Explored scaling behaviours of the developed measure.
+          - Developed a new scalable spatial interpolation method based on the measure.
 
-      - company: "Lancaster Environment Centre, Lancaster University"
-        position: "Visiting Researcher"
-        date:
-          start_date: "2022-01"
-          end_date: "2022-09"
-        location: "Lancaster, UK"
-        summary: "Host: Prof. Peter Atkinson"
+      - company: Lancaster Environment Centre, Lancaster University
+        location: Lancaster, UK
+        position: Visiting Researcher
+        start_date: 2022-01
+        end_date: 2022-09
         highlights:
-          - "Analysed geographic data characteristics under change-of-support."
+          - "Host: Prof. Peter Atkinson"
+          - Explored characteristics of geographic data under changing supports (change of support).
 
-      - company: "Institute of Future Cities, The Chinese University of Hong Kong"
-        position: "Junior Research Assistant"
-        date:
-          start_date: "2017-10"
-          end_date: "2018-08"
-        location: "Hong Kong"
-        summary: "Advisor: Prof. Yee Leung"
+      - company: Institute of Future Cities, The Chinese University of Hong Kong
+        location: Hong Kong
+        position: Junior Research Assistant
+        start_date: 2017-10
+        end_date: 2018-08
         highlights:
-          - "Improved positional accuracy measures for volunteered geographic information (VGI)."
-          - "Proposed a new measure of positional quality in VGI."
+          - "Advisor: Prof. Yee Leung"
+          - Improved positional accuracy measures in volunteered geographic information (VGI).
+          - Constructed a new measure of positional quality in VGI.
 
     Education:
-      - institution: "University of Chinese Academy of Sciences"
-        area: "Cartography and GIS"
-        degree: "PhD (Outstanding Graduate)"
-        date:
-          start_date: "2019-09"
-          end_date: "2023-07"
-        location: "China"
+      - institution: University of Chinese Academy of Sciences
+        location: Beijing, China
+        area: Cartography and GIS
+        degree: PhD (Outstanding Graduate)
+        start_date: 2019-09
+        end_date: 2023-07
         highlights:
-          - "Dissertation: Exploring the Measure of Heterogeneity and the Characteristics of Scaling Behaviors for Geospatial Data"
+          - "Dissertation: *Exploring the Measure of Heterogeneity and the Characteristics of Scaling Behaviors for Geospatial Data*"
           - "Selected courses: Progress of GIS; Frontier Comprehensive Course of Geoscience"
           - "GPA: 3.61/4"
 
-      - institution: "Chang’an University"
-        area: "Mathematics"
-        degree: "MSc (Outstanding Graduate)"
-        date:
-          start_date: "2016-09"
-          end_date: "2019-07"
-        location: "China"
+      - institution: Chang’an University
+        location: Xi’an, China
+        area: Mathematics
+        degree: MSc (Outstanding Graduate)
+        start_date: 2016-09
+        end_date: 2019-07
         highlights:
-          - "Thesis: Statistical Analysis of Positional Uncertainty of Road Networks in VGI"
-          - "Selected courses: Advanced Mathematical Statistics; Statistical Learning; Computational Statistics"
+          - "Thesis: *Statistical Analysis of Positional Uncertainty of Road Networks in Volunteered Geographic Information*"
+          - "Selected courses: Advanced Mathematical Statistics; Multivariable Statistics; Elements of Statistical Learning; Computational Statistics; Advanced Probability; Advanced Numerical Analysis"
           - "GPA: 87/100"
 
-      - institution: "Chang’an University"
-        area: "Applied Mathematics"
-        degree: "BSc"
-        date:
-          start_date: "2012-09"
-          end_date: "2016-07"
-        location: "China"
+      - institution: Chang’an University
+        location: Xi’an, China
+        area: Applied Mathematics
+        degree: BSc
+        start_date: 2012-09
+        end_date: 2016-07
         highlights:
-          - "Thesis: Mahalanobis Distance Based Fuzzy C-Means Clustering Algorithm"
+          - "Thesis: *Mahalanobis Distance Based Fuzzy C-Means Clustering Algorithm*"
+          - "Selected courses: Mathematical Analysis; Advanced Algebra; Stochastic Processes; Data Structures; Probability & Mathematical Statistics; Numerical PDE; Operational Research; Mathematical Modeling"
           - "GPA: 71/100"
 
-    Publications (selected):
-      - title: "A stochastic approach to integerize floating-point estimates in gridded population mapping"
-        authors:
-          - "*Zhang, W. B.*"
-          - "Sorichetta, A."
-          - "Frye, C."
-          - "et al."
-        journal: "International Journal of Geographical Information Science"
-        date: "2025"
-        doi: "10.1080/13658816.2025.2568721"
+    Honors and awards:
+      - bullet: "**Vice-Chancellor’s Awards**, University of Southampton (2025)"
+      - bullet: "**China National Scholarship** (2022)"
+      - bullet: "**Institute Chief Award** (2021, 2022)"
+      - bullet: "**Second Prize**, China Graduate Mathematical Contest in Modeling (2017)"
 
-      - title: "Assessing the impacts of gridded population model choice on degree of urbanisation metrics"
-        authors:
-          - "*Zhang, W. B.*"
-          - "Woods, D."
-          - "Olowe, I. D."
-          - "et al."
-        journal: "Cities"
-        date: "2025"
+    Editorial work and reviewing:
+      - Journal referee for *International Journal of Geographical Information Science*; *Annals of the American Association of Geographers*; *AJPM Focus*; *GIScience & Remote Sensing*; *International Journal of Applied Earth Observation and Geoinformation*; *Resources, Conservation & Recycling*; *Scientific Data*; *Nature Food*; *Networks and Spatial Economics*; *The Annals of Regional Science*.
 
-      - title: "Scaling geospatial data from the perspective of complexity: Exploring the scaling behavior of the Entropogram"
-        authors:
-          - "*Zhang, W. B.*"
-          - "Ge, Y."
-          - "Lai, S."
-          - "Atkinson, P. M."
-        journal: "Annals of the American Association of Geographers"
-        date: "2024"
-        doi: "10.1080/24694452.2024.2377227"
+    Publications:
+      - "## Peer-reviewed articles"
+      - "### 2026"
+      - |
+        1. Fang, W., **Wen-Bin Zhang**, Woods, D., *et al.* (2026). **Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia**. *Journal of Urban Health*. https://doi.org/10.1007/s11524-026-01077-z
+      - |
+        2. Liu, Haiyan; Wang, Siqin; Wei, Chunzhu; **Wen-Bin Zhang**; Tatem, Andrew J.; Lai, Shengjie (2026). **Assessing context-dependent effectiveness of heat adaptation through human mobility under different heatwave regimes**. *Sustainable Cities and Society*, **136**, 107066. https://doi.org/10.1016/j.scs.2025.107066
+        
+      - "### 2025"
+      - |
+        1. **Wen-Bin Zhang**, Sorichetta, A., Frye, C., Tejedor-Garavito, N., Fang, W., Cihan, D., Woods, D., Yetman, G., Hilton, J., Tatem, A. J., & Bondarenko, M. (2025). **A stochastic approach to integerize floating-point estimates in gridded population mapping**. *International Journal of Geographical Information Science*, 1–17. https://doi.org/10.1080/13658816.2025.2568721 :contentReference[oaicite:1]{index=1}
+      - |
+        2. **Wen-Bin Zhang**, Woods, D., Olowe, I. D., Schiavina, M., Fang, W., Hornby, G., Bondarenko, M., Maes, J., Dijkstra, L., Tatem, A. J., & Sorichetta, A. (2025). **Assessing the impacts of gridded population model choice on degree of urbanisation metrics**. *Cities*, 166, 106293. https://doi.org/10.1016/j.cities.2025.106293 :contentReference[oaicite:2]{index=2}
+      - |
+        3. Priyatikanto, R.; Chamberlain, H.; Bondarenko, M.; **Wenbin Zhang**; *et al.* (2025). **High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023)**. *VeriXiv*, **2**, 403 (Version 1; peer review: 1 approved, 1 approved with reservations). https://doi.org/10.12688/verixiv.1584.1
 
-      - title: "Optimizing the detection of emerging infections using mobility-based spatial sampling"
-        authors:
-          - "Zhang, D."
-          - "Ge, Y."
-          - "Wang, J."
-          - "Liu, H."
-          - "*Zhang, W. B.*"
-          - "et al."
-        journal: "International Journal of Applied Earth Observation and Geoinformation"
-        date: "2024"
+      - "### 2024"
+      - |
+        1. Zhang, D., Ge, Y., Wang, J., Liu, H., **Wen-Bin Zhang**, *et al.* (2024). **Optimizing the detection of emerging infections using mobility-based spatial sampling**. *International Journal of Applied Earth Observation and Geoinformation*, 131, 103949.
+      - |
+        2. **Wen-Bin Zhang**, Ge, Y., Lai, S., & Atkinson, P. M. (2024). **Scaling Geospatial Data from the Perspective of Complexity: Exploring the Scaling Behavior of the Entropogram**. *Annals of the American Association of Geographers*, 114(10), 2264–2280. https://doi.org/10.1080/24694452.2024.2377227 :contentReference[oaicite:3]{index=3}
 
-    Data publications:
-      - name: "Under-18 population counts per grid square (3 arc-second), R2024A v1.0"
-        date: "2024-12-16"
-        summary: "DOI: 10.5258/SOTON/WP00799"
-        highlights:
-          - "Creators include Zhang, W. (Creator); University of Southampton."
+      - "### 2023"
+      - |
+        1. Ge, Y., Wu, X., **Wen-Bin Zhang**, *et al.* (2023). **Effects of public-health measures for zeroing out different SARS-CoV-2 variants**. *Nature Communications*, 14(1), 5270. https://doi.org/10.1038/s41467-023-40940-4 :contentReference[oaicite:4]{index=4}
+      - |
+        2. **Wen-Bin Zhang**, Ge, Y., Bai, H., Jin, Y., Stein, A., & Atkinson, P. M. (2023). **Spatial Association from the Perspective of Mutual Information**. *Annals of the American Association of Geographers*, 113(8), 1960–1976. https://doi.org/10.1080/24694452.2023.2209629 :contentReference[oaicite:5]{index=5}
+      - |
+        3. Zhang, D., Ge, Y., Wu, X., Liu, H., **Wen-Bin Zhang**, & Lai, S. (2023). **Data-Driven Models Informed by Spatiotemporal Mobility Patterns for Understanding Infectious Disease Dynamics**. *ISPRS International Journal of Geo-Information*.
 
-      - name: "Under-1 population counts per grid square (1 km), R2024A v1.0"
-        date: "2024-12-15"
-        summary: "DOI: 10.5258/SOTON/WP00798"
-        highlights:
-          - "Creators include Zhang, W. (Creator); University of Southampton."
+      - "### 2022"
+      - |
+        1. Ge, Y., **Wen-Bin Zhang**, Wu, X., *et al.* (2022). **Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories**. *Nature Communications*, 13(1), 3106. https://doi.org/10.1038/s41467-022-30897-1 :contentReference[oaicite:6]{index=6}
+      - |
+        2. Ge, Y., **Wen-Bin Zhang**, Liu, H., *et al.* (2022). **Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space**. *International Journal of Applied Earth Observation and Geoinformation*, 106, 102649. :contentReference[oaicite:7]{index=7}
 
-    Under review / in preparation:
-      - bullet: "Measuring interactions between SARS-CoV-2, Influenza, and RSV in co-epidemics: a modelling study — Under review."
-      - bullet: "Growing global inequality in compound vulnerability to extreme heat and poverty — Under review."
-      - bullet: "Global cooling inequality under climate warming — Under review."
-      - bullet: "Entropogram-based multiscale spatial interpolation of categorical geospatial data — Under review."
-      - bullet: "Mapping informal settlements at high spatial resolution across 84 African cities — In preparation."
+      - "### 2021"
+      - |
+        1. Ge, Y., **Wen-Bin Zhang**, Wang, J., *et al.* (2021). **Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modeling study in China**. *BMC Public Health*, 21, 604. https://doi.org/10.1186/s12889-021-10624-z :contentReference[oaicite:8]{index=8}
+      - |
+        2. Zhang, D., Ge, Y., Stein, A., & **Wen-Bin Zhang**. (2021). **Ranking of VGI contributor reputation using an evaluation-based weighted PageRank**. *Transactions in GIS*, 25(3), 1439–1459. https://doi.org/10.1111/tgis.12735 :contentReference[oaicite:9]{index=9}
+      - |
+        3. Zhou, Y., Leung, Y., & **Wen-Bin Zhang**. (2021). **A location-and-form-based distance for geographical analysis**. *Annals of the American Association of Geographers*, 111(4), 1253–1270.
 
-    Peer review & editorial service:
-      - bullet: "International Journal of Geographical Information Science (1); Annals of the AAG (2); AJPM Focus (2); GIScience & Remote Sensing (2); IJ Applied Earth Observation & Geoinformation (1); Resources, Conservation and Recycling (3); Scientific Data (2); Nature Food (1); Networks and Spatial Economics (1); The Annals of Regional Science (1)."
+      - "### 2020"
+      - |
+        1. **Wen-Bin Zhang**, Ge, Y., Liu, M., *et al.* (2020). **Risk assessment of the step-by-step return-to-work policy in Beijing following the COVID-19 epidemic peak**. *Stochastic Environmental Research and Risk Assessment*, 35(2), 481–498. https://doi.org/10.1007/s00477-020-01929-3 :contentReference[oaicite:10]{index=10}
+      - |
+        2. **Wen-Bin Zhang**, Ge, Y., Leung, Y., & Zhou, Y. (2021). **A georeferenced graph model for geospatial data matching by optimising measures of similarity across multiple scales**. *International Journal of Geographical Information Science*, 35(11), 2339–2355. https://doi.org/10.1080/13658816.2020.1858301 :contentReference[oaicite:11]{index=11}
 
-    Honours & awards:
-      - bullet: "China National Scholarship (2022)"
-      - bullet: "Institute Chief Award (2021, 2022)"
-      - bullet: "Second Prize, China Graduate Mathematical Contest in Modeling (2017)"
+      - "### 2019"
+      - |
+        1. **Wen-Bin Zhang**, Leung, Y., & Ma, J. H. (2019). **Analysis of positional uncertainty of road networks in volunteered geographic information with a statistically defined buffer-zone method**. *International Journal of Geographical Information Science*, 33(9), 1807–1828.
+      - |
+        2. **Wen-Bin Zhang**, Fang, W., & Ma, J. H. (2019). **Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City**. *Journal of Nanjing Normal University (Natural Science Edition)*, 42(1), 138–144.
 
+      - "## Reports"
+      - |
+        - Tatem, A. J., Sorichetta, A., Woods, D., Bondarenko, M., **Wen-Bin Zhang**, Olowe, I. D., Hornby, G. (2024). **Population and SDG indicators by Degree of Urbanisation**. Intermediary report for DG REGIO and JRC, European Commission.
+
+      - "## Data papers / datasets"
+      - |
+        - Woods, D., Olowe, I. D., Bondarenko, M., **Wen-Bin Zhang**, *et al.* (2026). **Degree of Urbanisation (DEGURBA) level 1 dataset for 16 countries in Sub-Saharan Africa and the Caribbean**. UNIMI Dataverse. https://doi.org/10.13130/RD_UNIMI/YFNFZC :contentReference[oaicite:12]{index=12}
+      - |
+        - Bondarenko, M., Priyatikanto, R., **Wen-Bin Zhang**, *et al.* (2024). **Unconstrained and constrained estimates of 2024 total number of people under the age of 18 per grid square (3 arc ~100m), R2024A v1.0**. University of Southampton / WorldPop. https://doi.org/10.5258/SOTON/WP00799 :contentReference[oaicite:13]{index=13}
+      - |
+        - Bondarenko, M., Tejedor Garavito, N., Priyatikanto, R., **Wen-Bin Zhang**, *et al.* (2024). **Unconstrained and constrained estimates of 2024 total number of people (and under age one) per grid square, adjusted to UNPD 2024 (1km), R2024A v1.0**. University of Southampton / WorldPop. https://doi.org/10.5258/SOTON/WP00798 :contentReference[oaicite:14]{index=14}
+
+    Manuscripts under review / in preparation:
+      - |
+        - Liu, Y., Wang, X., Li, M., Cleary, E., Cheng, Z., **Wen-Bin Zhang**, *et al.* **Interactions of SARS-CoV-2, influenza and respiratory syncytial virus influence epidemic timing and risk**. *Communications Medicine* (under review).
+      - |
+        - **Wen-Bin Zhang**, Ge, Y., Wan, X., Lai, S., & Atkinson, P. **Entropogram-based Random Field Model for Categorical Geospatial Data Prediction**. *International Journal of Geographical Information Science* (under review).
+      - |
+        - Fang, W., **Wen-Bin Zhang**. **Institutional Design and the Governance of Rapid Urban Expansion: Evidence from Nanjing, 1979–2020**. *Cities* (under review).
+      - |
+        - Zhang, Z. (corresponding), Ma, X., Lv, W., **Wenbin Zhang**, Osei, F., & Stein, A. **Revisiting deterministic spatial interpolation methods: A review and benchmarking for surface reconstruction**. *Computers & Geosciences* (under review).
+      - |
+        - **Wen-Bin Zhang**#; Fang, W.#; Chamberlain, H.; Liu, H.; Liang, L.; Dotse-Gborgbortsi, W.; Bondarenko, M.; Dijkstra, L.; Tatem, A. J.; Sorichetta, A. **A harmonised framework for assessing geographic healthcare access across the rural-urban continuum: case studies from Nigeria and Zambia**. *Communications Health* (under review).
+      - |
+        - Liang, L., Chen, M., Sun, X., **Wenbin Zhang**, & Mi, Z. **Growing global inequality in compound vulnerability to extreme heat and poverty** (under review).
+      - |
+        - Liang, L., Chen, M., **Wenbin Zhang**, *et al.* **Global cooling inequality under climate warming** (under review).
+      - |
+        - **Wenbin Zhang**, *et al.* **An entropogram-based approach for multiscale spatial interpolation of categorical geospatial data**. *International Journal of Geographical Information Science* (under review).
+      - |
+        - **Wenbin Zhang**, *et al.* **Mapping informal settlements at high spatial resolution from satellite imagery across 84 African cities** (in preparation).
+      - |
+        - **Wenbin Zhang**, *et al.* **Context-dependent performance of population dynamics GeoAI embeddings for spatial population modelling** (in preparation).
+      - |
+        - **Wenbin Zhang**, *et al.* **Spatio-temporally harmonized 100 m building characteristics for the Global South (2016–2023) derived from Google Open Buildings 2.5D Temporal dataset** (in preparation).
+        
     Skills:
-      - label: "Languages"
-        details: "Mandarin Chinese (native); English"
-      - label: "Programming"
-        details: "Python (familiar); MATLAB, R"
-      - label: "GIS / Tools"
-        details: "ArcGIS"
+      - label: Languages
+        details: Chinese (Mandarin, native); English
+      - label: Programming / GIS
+        details: Python; MATLAB, R, ArcGIS, QGIS, ChatGPT
 
 design:
   theme: classic
-  header:
-    alignment: left
-  connections:
-    show_icons: false
+  font: Times New Roman
+  font_size: 10pt
+  line_spacing: 1.15
+  show_last_updated_date: true

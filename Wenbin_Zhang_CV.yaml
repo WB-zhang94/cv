@@ -136,7 +136,8 @@ cv:
         † Co-first author.  
         * Corresponding author.
 
-      - **2026**
+      - |- 
+        **2026**
 
         1. [Fang, W., Zhang Wen-Bin, Woods, D., *et al.* (2026)](https://doi.org/10.1007/s11524-026-01077-z).  
            **Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia.**  
@@ -146,7 +147,7 @@ cv:
            **Assessing context-dependent effectiveness of heat adaptation through human mobility under different heatwave regimes.**  
            *Sustainable Cities and Society*, 136, 107066.
 
-      - **2025**
+        **2025**
 
         1. [Zhang Wen-Bin, Sorichetta, A., Frye, C., Tejedor-Garavito, N., Fang, W., Cihan, D., *et al.* (2025)](https://doi.org/10.1080/13658816.2025.2568721).  
            **A stochastic approach to integerize floating-point estimates in gridded population mapping.**  
@@ -160,7 +161,7 @@ cv:
            **High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023).**  
            *VeriXiv*, 2, 403.
 
-     - **2024**
+       **2024**
 
         1. [Zhang, D., Ge, Y., Wang, J., Liu, H., Zhang Wen-Bin, *et al.* (2024)](https://doi.org/10.1016/j.jag.2024.103949).  
            **Optimizing the detection of emerging infections using mobility-based spatial sampling.**  
@@ -170,7 +171,7 @@ cv:
            **Scaling Geospatial Data from the Perspective of Complexity: Exploring the Scaling Behavior of the Entropogram.**  
            *Annals of the American Association of Geographers*, 114(10), 2264–2280.
 
-      - **2023**
+        **2023**
 
         1. [Ge, Y., Wu, X., Zhang Wen-Bin†, *et al.* (2023)](https://doi.org/10.1038/s41467-023-40940-4).  
            **Effects of public-health measures for zeroing out different SARS-CoV-2 variants.**  
@@ -184,7 +185,7 @@ cv:
            **Data-Driven Models Informed by Spatiotemporal Mobility Patterns for Understanding Infectious Disease Dynamics.**  
            *ISPRS International Journal of Geo-Information*, 12(7), 266.
 
-     - **2022**
+       **2022**
 
         1. [Ge, Y., Zhang Wen-Bin†, Wu, X., *et al.* (2022)](https://doi.org/10.1038/s41467-022-30897-1).  
            **Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories.**  
@@ -194,7 +195,7 @@ cv:
            **Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space.**  
            *International Journal of Applied Earth Observation and Geoinformation*, 106, 102649.
 
-      - **2021**
+        **2021**
 
         1. [Ge, Y., Zhang Wen-Bin†, Wang, J., *et al.* (2021)](https://doi.org/10.1186/s12889-021-10624-z).  
            **Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modelling study in China.**  
@@ -212,13 +213,13 @@ cv:
            **A georeferenced graph model for geospatial data matching by optimising measures of similarity across multiple scales.**  
            *International Journal of Geographical Information Science*, 35(11), 2339–2355.
 
-      - **2020**
+        **2020**
 
         1. [Zhang Wen-Bin, Ge, Y., Liu, M., *et al.* (2020)](https://doi.org/10.1007/s00477-020-01929-3).  
            **Risk assessment of the step-by-step return-to-work policy in Beijing following the COVID-19 epidemic peak.**  
            *Stochastic Environmental Research and Risk Assessment*, 35(2), 481–498.
 
-     - **2019**
+       **2019**
 
         1. [Zhang Wen-Bin, Leung, Y., & Ma, J. H. (2019)](https://doi.org/10.1080/13658816.2019.1606430).  
            **Analysis of positional uncertainty of road networks in volunteered geographic information with a statistically defined buffer-zone method.**  

@@ -23,18 +23,30 @@ jobs:
       - name: Install RenderCV
         run: pip install "rendercv[full]"
 
-      - name: Render Wenbin CV
-        run: rendercv render Wenbin_Zhang_CV.yaml --output-directory output --dont-generate-png
+      - name: Render Wenbin PDF
+        run: |
+          mkdir -p site
+          rendercv render Wenbin_Zhang_CV.yaml \
+            --pdf-path site/wenbin.pdf \
+            --dont-generate-png \
+            --dont-generate-html \
+            --dont-generate-markdown
 
-      - name: Render Weixuan CV
-        run: rendercv render Weixuan_Fang_CV.yaml --output-directory output --dont-generate-png
+      - name: Render Weixuan PDF
+        run: |
+          mkdir -p site
+          rendercv render Weixuan_Fang_CV.yaml \
+            --pdf-path site/weixuan.pdf \
+            --dont-generate-png \
+            --dont-generate-html \
+            --dont-generate-markdown
 
-      - name: Show output files
-        run: ls -la output
+      - name: Show site files
+        run: ls -la site
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: output
+          path: site
 
   deploy:
     needs: build

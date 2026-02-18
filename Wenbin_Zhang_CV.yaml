@@ -1,0 +1,190 @@
+# yaml-language-server: $schema=https://github.com/rendercv/rendercv/blob/main/schema.json?raw=true
+
+cv:
+  name: "Wenbin Zhang (张文彬)"
+  headline: "Senior Research Fellow (FuturePop) | WorldPop, University of Southampton"
+  location: "Southampton, UK"
+  email: "wb.zhang@soton.ac.uk"
+  phone: "+44-7397073935"
+  website: "https://www.researchgate.net/profile/Wenbin-Zhang-6"
+
+  sections:
+    Research interests:
+      - "Geographical Information Science (GIScience); spatial uncertainty; health geography; spatial heterogeneity; error propagation."
+
+    Identifiers:
+      - bullet: "ORCID: 0000-0002-9295-1019"
+      - bullet: "Scopus ID: 57208577846"
+      - bullet: "Publons/WoS: AAJ-9167-2021"
+
+    Academic appointments & research experience:
+      - company: "WorldPop, University of Southampton"
+        position: "Senior Research Fellow (FuturePop)"
+        date:
+          start_date: "2026-02"
+          end_date: "present"
+        location: "Southampton, UK"
+        highlights:
+          - "Add 3–6 bullets: deliverables (datasets/tools/papers), stakeholders, and any metrics."
+
+      - company: "WorldPop, University of Southampton"
+        position: "Research Fellow (DEGURBA)"
+        date:
+          start_date: "2023-08"
+          end_date: "2026-02"
+        location: "Southampton, UK"
+        highlights:
+          - "Add 3–6 bullets: methods developed, validation, indicators delivered, publications."
+
+      - company: "Institute of Geographic Sciences and Natural Resources Research"
+        position: "Research Assistant / PhD Candidate"
+        date:
+          start_date: "2019-09"
+          end_date: "2023-07"
+        location: "Beijing, China"
+        summary: "Advisor: Prof. Yong Ge"
+        highlights:
+          - "Developed a novel measure of spatial association for Earth science / geospatial data."
+          - "Investigated scaling behaviour across spatial resolutions / supports."
+          - "Designed a scalable spatial interpolation method based on the new measure."
+
+      - company: "Lancaster Environment Centre, Lancaster University"
+        position: "Visiting Researcher"
+        date:
+          start_date: "2022-01"
+          end_date: "2022-09"
+        location: "Lancaster, UK"
+        summary: "Host: Prof. Peter Atkinson"
+        highlights:
+          - "Analysed geographic data characteristics under change-of-support."
+
+      - company: "Institute of Future Cities, The Chinese University of Hong Kong"
+        position: "Junior Research Assistant"
+        date:
+          start_date: "2017-10"
+          end_date: "2018-08"
+        location: "Hong Kong"
+        summary: "Advisor: Prof. Yee Leung"
+        highlights:
+          - "Improved positional accuracy measures for volunteered geographic information (VGI)."
+          - "Proposed a new measure of positional quality in VGI."
+
+    Education:
+      - institution: "University of Chinese Academy of Sciences"
+        area: "Cartography and GIS"
+        degree: "PhD (Outstanding Graduate)"
+        date:
+          start_date: "2019-09"
+          end_date: "2023-07"
+        location: "China"
+        highlights:
+          - "Dissertation: Exploring the Measure of Heterogeneity and the Characteristics of Scaling Behaviors for Geospatial Data"
+          - "Selected courses: Progress of GIS; Frontier Comprehensive Course of Geoscience"
+          - "GPA: 3.61/4"
+
+      - institution: "Chang’an University"
+        area: "Mathematics"
+        degree: "MSc (Outstanding Graduate)"
+        date:
+          start_date: "2016-09"
+          end_date: "2019-07"
+        location: "China"
+        highlights:
+          - "Thesis: Statistical Analysis of Positional Uncertainty of Road Networks in VGI"
+          - "Selected courses: Advanced Mathematical Statistics; Statistical Learning; Computational Statistics"
+          - "GPA: 87/100"
+
+      - institution: "Chang’an University"
+        area: "Applied Mathematics"
+        degree: "BSc"
+        date:
+          start_date: "2012-09"
+          end_date: "2016-07"
+        location: "China"
+        highlights:
+          - "Thesis: Mahalanobis Distance Based Fuzzy C-Means Clustering Algorithm"
+          - "GPA: 71/100"
+
+    Publications (selected):
+      - title: "A stochastic approach to integerize floating-point estimates in gridded population mapping"
+        authors:
+          - "*Zhang, W. B.*"
+          - "Sorichetta, A."
+          - "Frye, C."
+          - "et al."
+        journal: "International Journal of Geographical Information Science"
+        date: "2025"
+        doi: "10.1080/13658816.2025.2568721"
+
+      - title: "Assessing the impacts of gridded population model choice on degree of urbanisation metrics"
+        authors:
+          - "*Zhang, W. B.*"
+          - "Woods, D."
+          - "Olowe, I. D."
+          - "et al."
+        journal: "Cities"
+        date: "2025"
+
+      - title: "Scaling geospatial data from the perspective of complexity: Exploring the scaling behavior of the Entropogram"
+        authors:
+          - "*Zhang, W. B.*"
+          - "Ge, Y."
+          - "Lai, S."
+          - "Atkinson, P. M."
+        journal: "Annals of the American Association of Geographers"
+        date: "2024"
+        doi: "10.1080/24694452.2024.2377227"
+
+      - title: "Optimizing the detection of emerging infections using mobility-based spatial sampling"
+        authors:
+          - "Zhang, D."
+          - "Ge, Y."
+          - "Wang, J."
+          - "Liu, H."
+          - "*Zhang, W. B.*"
+          - "et al."
+        journal: "International Journal of Applied Earth Observation and Geoinformation"
+        date: "2024"
+
+    Data publications:
+      - name: "Under-18 population counts per grid square (3 arc-second), R2024A v1.0"
+        date: "2024-12-16"
+        summary: "DOI: 10.5258/SOTON/WP00799"
+        highlights:
+          - "Creators include Zhang, W. (Creator); University of Southampton."
+
+      - name: "Under-1 population counts per grid square (1 km), R2024A v1.0"
+        date: "2024-12-15"
+        summary: "DOI: 10.5258/SOTON/WP00798"
+        highlights:
+          - "Creators include Zhang, W. (Creator); University of Southampton."
+
+    Under review / in preparation:
+      - bullet: "Measuring interactions between SARS-CoV-2, Influenza, and RSV in co-epidemics: a modelling study — Under review."
+      - bullet: "Growing global inequality in compound vulnerability to extreme heat and poverty — Under review."
+      - bullet: "Global cooling inequality under climate warming — Under review."
+      - bullet: "Entropogram-based multiscale spatial interpolation of categorical geospatial data — Under review."
+      - bullet: "Mapping informal settlements at high spatial resolution across 84 African cities — In preparation."
+
+    Peer review & editorial service:
+      - bullet: "International Journal of Geographical Information Science (1); Annals of the AAG (2); AJPM Focus (2); GIScience & Remote Sensing (2); IJ Applied Earth Observation & Geoinformation (1); Resources, Conservation and Recycling (3); Scientific Data (2); Nature Food (1); Networks and Spatial Economics (1); The Annals of Regional Science (1)."
+
+    Honours & awards:
+      - bullet: "China National Scholarship (2022)"
+      - bullet: "Institute Chief Award (2021, 2022)"
+      - bullet: "Second Prize, China Graduate Mathematical Contest in Modeling (2017)"
+
+    Skills:
+      - label: "Languages"
+        details: "Mandarin Chinese (native); English"
+      - label: "Programming"
+        details: "Python (familiar); MATLAB, R"
+      - label: "GIS / Tools"
+        details: "ArcGIS"
+
+design:
+  theme: classic
+  header:
+    alignment: left
+  connections:
+    show_icons: false

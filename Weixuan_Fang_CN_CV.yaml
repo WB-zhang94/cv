@@ -1,16 +1,140 @@
 cv:
-  name: WENBIN ZHANG (张文彬)
-  headline: Senior Research Fellow — WorldPop, University of Southampton
-  location: Southampton, United Kingdom
-  email: wb.zhang@soton.ac.uk
-  phone: "+44-7397073935"
-  website: "https://www.researchgate.net/profile/Wenbin-Zhang-6"
+  name: 方玮轩 (FANG Weixuan)
+  headline: 城市政策与规划研究 | 自组织城市发展与复杂系统建模
+  location: 英国 温彻斯特
+  email: fwx037@icloud.com
+  phone: "+44 7897474544"
 
-  social_networks:
-    - network: ORCID
-      username: 0000-0002-9295-1019
+  sections:
 
-  custom_connections:
-    - placeholder: "Scopus ID: 57208577846"
-      url: "https://www.scopus.com/authid/detail.uri?authorId=57208577846"
-      fontawesome_icon: "id-card"
+    学术定位:
+      - "城市政策与规划研究者，聚焦城市规划与自组织城市发展机制。"
+      - "研究方向包括土地利用优化、城市复杂系统建模、空间模拟与政策评估。"
+      - "擅长细胞自动机模拟、空间计量分析及政策导向型城市研究。"
+
+    教育背景:
+      - institution: "英国布里斯托大学"
+        degree: "博士"
+        area: "城市政策（Urban Policy）"
+        location: "英国 布里斯托"
+        start_date: 2019-09
+        end_date: 2025-02
+        highlights:
+          - "社会科学与法律学院（Faculty of Social Sciences and Law）"
+          - "博士论文：《城市规划与自组织城市发展的协同演化机制——以南京（1979–2020）为例》"
+
+      - institution: "香港理工大学"
+        degree: "硕士"
+        area: "可持续城市发展"
+        location: "中国 香港"
+        start_date: 2016-09
+        end_date: 2017-09
+        highlights:
+          - "建筑与房地产学系"
+          - "硕士论文：《基于通勤行为的小城市土地利用优化研究》"
+
+      - institution: "苏州大学"
+        degree: "学士"
+        area: "城市管理"
+        location: "中国 苏州"
+        start_date: 2012-09
+        end_date: 2016-07
+        highlights:
+          - "政治与公共管理学院"
+          - "GPA：3.7/4.0（88/100）"
+
+    工作经历:
+      - company: "英国南安普顿大学"
+        position: "研究助理"
+        location: "英国"
+        start_date: 2025-05
+        end_date: 2025-10
+        highlights:
+          - "合作导师：Dr Natalia Tejedor Garavito"
+
+      - company: "香港中文大学"
+        position: "研究助理"
+        location: "中国 香港"
+        start_date: 2017-10
+        end_date: 2018-10
+        highlights:
+          - "合作导师：梁怡教授；李静教授"
+
+    实习经历:
+      - company: "南京市土地信息产业有限公司"
+        position: "暑期实习生"
+        location: "中国 南京"
+        start_date: 2013-07
+        end_date: 2013-07
+        highlights:
+          - "学习 ArcGIS 模式数字化方法与空间插值分析。"
+
+      - company: "江苏金宁达房地产评估咨询有限公司"
+        position: "暑期实习生"
+        location: "中国 江苏"
+        start_date: 2014-08
+        end_date: 2014-08
+        highlights:
+          - "学习土地评估基本方法、流程及报告规范。"
+
+    学术论文:
+
+      - title: "[Institutional Design and the Governance of Rapid Urban Expansion: Evidence from Nanjing, 1979-2020]"
+        authors:
+          - "Fang, W."
+          - "Zhang W."
+        journal: Cities
+        date: 2026
+        
+      - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
+        authors:
+          - "Fang, W."
+          - "Zhang W."
+          - "Woods, D."
+          - "et al."
+        journal: "Journal of Urban Health"
+        date: 2026
+
+      - title: "A Co-evolutionary Framework for Simulating Urban Complex Growth and Adaptive Planning: A Cellular Automata-Based Approach"
+        authors:
+          - "Fang, W."
+          - "Zhang W."
+        journal: "Computers, Environment and Urban Systems"
+        date: 2025
+
+      - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"
+        authors:
+          - "Zhang, W.B."
+          - "Sorichetta, A."
+          - "Frye, C."
+          - "Tejedor-Garavito, N."
+          - "Cihan, D."
+          - "Fang, W."
+          - "et al."
+        journal: "International Journal of Geographical Information Science"
+        date: 2025
+
+      - title: "Assessing the impacts of gridded population model choice on degree of urbanisation metrics"
+        authors:
+          - "Zhang, W.B."
+          - "Woods, D."
+          - "Fang, W."
+          - "et al."
+        journal: "Cities"
+        date: 2025
+
+      - title: "Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016"
+        authors:
+          - "Li, J."
+          - "Fang, W."
+          - "Shi, Y."
+          - "Ren, C."
+        journal: "Journal of Housing and the Built Environment"
+        date: 2022
+
+    社会实践与服务:
+      - bullet: "苏州大学戏剧社核心成员兼秘书（2012–2014）"
+      - bullet: "2014年南京青年奥林匹克运动会志愿者"
+      - bullet: "获评“优秀志愿者”称号"
+      - bullet: "文学社活动负责人（2013年6月）"
+      - bullet: "组织并参与公益义卖及慈善捐助活动"

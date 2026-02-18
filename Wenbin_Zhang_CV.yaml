@@ -129,15 +129,14 @@ cv:
       - bullet: "**Second Prize**, China Graduate Mathematical Contest in Modeling (2017)"
 
     Editorial work and reviewing:
-      - "To be updated."
-      
-    Full Publication list:
-      - "† Co-first author. * Corresponding author."
-      
-      - "**2026**"
+      - "Reviewer for: International Journal of Geographical Information Science; Annals of the American Association of Geographers; Scientific Data; GIScience & Remote Sensing; International Journal of Applied Earth Observation and Geoinformation; Resources, Conservation & Recycling; Networks and Spatial Economics; The Annals of Regional Science; Nature Food."
 
+    Publication list:
+      - "† Co-first author. * Corresponding author."
+
+      - "**2026**"
       - |-
-        Fang, W.; **Zhang Wen-Bin**; Woods, D.; *et al.*  
+        Fang, W.; **Zhang Wen-Bin**; Woods, D.; et al.  
         [Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z).  
         *Journal of Urban Health* (2026).
 
@@ -146,43 +145,43 @@ cv:
         [Assessing context-dependent effectiveness of heat adaptation through human mobility under different heatwave regimes](https://doi.org/10.1016/j.scs.2025.107066).  
         *Sustainable Cities and Society* 136 (2026) 107066.
 
-
       - "**2025**"
-
       - |-
-        **Zhang Wen-Bin**; Sorichetta, A.; Frye, C.; Tejedor-Garavito, N.; Fang, W.; Cihan, D.; *et al.*  
+        **Zhang Wen-Bin**; Sorichetta, A.; Frye, C.; Tejedor-Garavito, N.; Fang, W.; Cihan, D.; et al.  
         [A stochastic approach to integerize floating-point estimates in gridded population mapping](https://doi.org/10.1080/13658816.2025.2568721).  
         *International Journal of Geographical Information Science* (2025).
 
       - |-
-        **Zhang Wen-Bin**; Woods, D.; Olowe, I. D.; Schiavina, M.; Fang, W.; Hornby, G.; *et al.*  
+        **Zhang Wen-Bin**; Woods, D.; Olowe, I. D.; Schiavina, M.; Fang, W.; Hornby, G.; et al.  
         [Assessing the impacts of gridded population model choice on degree of urbanisation metrics](https://doi.org/10.1016/j.cities.2025.106293).  
         *Cities* 166 (2025) 106293.
 
       - |-
-        Priyatikanto, R.; Chamberlain, H.; Bondarenko, M.; **Zhang Wen-Bin**; *et al.*  
+        Priyatikanto, R.; Chamberlain, H.; Bondarenko, M.; **Zhang Wen-Bin**; et al.  
         [High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023)](https://doi.org/10.12688/verixiv.1584.1).  
         *VeriXiv* 2 (2025) 403.
 
     Reports:
       - |-
-        1. Tatem, A. J., Sorichetta, A., Woods, D., Bondarenko, M., Zhang Wen-Bin, Olowe, I. D., Hornby, G. (2024).  
-           **Population and SDG indicators by Degree of Urbanisation.**  
-           Intermediary report for DG REGIO and JRC, European Commission.
+        Tatem, A. J.; Sorichetta, A.; Woods, D.; Bondarenko, M.; Zhang Wen-Bin; Olowe, I. D.; Hornby, G. (2024).  
+        **Population and SDG indicators by Degree of Urbanisation.**  
+        Report for DG REGIO and JRC, European Commission.
 
     Datasets:
       - |-
-        1. [Woods, D., Olowe, I. D., Bondarenko, M., Zhang Wen-Bin, *et al.* (2026)](https://doi.org/10.13130/RD_UNIMI/YFNFZC).  
-           **Degree of Urbanisation (DEGURBA) level 1 dataset for 16 countries in Sub-Saharan Africa and the Caribbean.**  
-           UNIMI Dataverse.
+        Woods, D.; Olowe, I. D.; Bondarenko, M.; Zhang Wen-Bin; et al. (2026).  
+        [Degree of Urbanisation (DEGURBA) level 1 dataset for 16 countries in Sub-Saharan Africa and the Caribbean](https://doi.org/10.13130/RD_UNIMI/YFNFZC).  
+        UNIMI Dataverse.
 
-        2. [Bondarenko, M., Priyatikanto, R., Zhang Wen-Bin, *et al.* (2024)](https://doi.org/10.5258/SOTON/WP00799).  
-           **Unconstrained and constrained estimates of 2024 total number of people under the age of 18 per grid square (R2024A v1.0).**  
-           WorldPop / University of Southampton.
+      - |-
+        Bondarenko, M.; Priyatikanto, R.; Zhang Wen-Bin; et al. (2024).  
+        [2024 total number of people under the age of 18 per grid square (R2024A v1.0)](https://doi.org/10.5258/SOTON/WP00799).  
+        WorldPop / University of Southampton.
 
-        3. [Bondarenko, M., Tejedor Garavito, N., Priyatikanto, R., Zhang Wen-Bin, *et al.* (2024)](https://doi.org/10.5258/SOTON/WP00798).  
-           **Unconstrained and constrained estimates of 2024 total number of people (under age one) per grid square (R2024A v1.0).**  
-           WorldPop / University of Southampton.
+      - |-
+        Bondarenko, M.; Tejedor Garavito, N.; Priyatikanto, R.; Zhang Wen-Bin; et al. (2024).  
+        [2024 total number of people (under age one) per grid square (R2024A v1.0)](https://doi.org/10.5258/SOTON/WP00798).  
+        WorldPop / University of Southampton.
 
 design:
   theme: classic

@@ -23,21 +23,86 @@ jobs:
       - name: Install RenderCV
         run: pip install "rendercv[full]"
 
-      - name: Render PDFs
+      - name: Render all CV YAMLs to PDF
         run: |
+          set -e
           mkdir -p site
 
-          rendercv render Wenbin_Zhang_CV.yaml \
-            --pdf-path site/wenbin.pdf \
-            --dont-generate-png --dont-generate-html --dont-generate-markdown
+          # Find YAMLs in repo root; exclude workflow YAMLs and README
+          # Convention:
+          #   Wenbin_Zhang_CV.yaml      -> wenbin_zhang.pdf
+          #   Wenbin_Zhang_CN_CV.yaml   -> wenbin_zhang_cn.pdf
+          #
+          python - <<'PY'
+          import json, os, re, subprocess, glob, datetime
 
-          rendercv render Wenbin_Zhang_CN_CV.yaml \
-            --pdf-path site/wenbin_cn.pdf \
-            --dont-generate-png --dont-generate-html --dont-generate-markdown
+          def slugify(s: str) -> str:
+            s = s.strip().replace(" ", "_")
+            s = re.sub(r"[^A-Za-z0-9_\\-]+", "_", s)
+            s = re.sub(r"_+", "_", s).strip("_")
+            return s.lower()
 
-          rendercv render Weixuan_Fang_CV.yaml \
-            --pdf-path site/weixuan.pdf \
-            --dont-generate-png --dont-generate-html --dont-generate-markdown
+          yaml_files = []
+          for ext in ("*.yaml", "*.yml"):
+            yaml_files.extend(glob.glob(ext))
+
+          # Exclude non-CV YAMLs by name
+          exclude = {".github", "README.yml", "README.yaml"}
+          yaml_files = [f for f in yaml_files if not f.startswith(".github/")]
+
+          # Optionally keep only files that look like CV inputs
+          # (safer than rendering every yaml in root)
+          cv_like = []
+          for f in yaml_files:
+            base = os.path.basename(f).lower()
+            if base.endswith(("cv.yaml","cv.yml")) or "_cv." in base or base.endswith("_cv.yaml") or base.endswith("_cv.yml"):
+              cv_like.append(f)
+          yaml_files = sorted(cv_like)
+
+          if not yaml_files:
+            raise SystemExit("No CV YAML files found in repo root (expected *CV.yaml or *_CV.yaml).")
+
+          items = []
+          for src in yaml_files:
+            base = os.path.splitext(os.path.basename(src))[0]
+            out = slugify(base) + ".pdf"
+            out_path = os.path.join("site", out)
+
+            cmd = [
+              "rendercv", "render", src,
+              "--pdf-path", out_path,
+              "--dont-generate-png",
+              "--dont-generate-html",
+              "--dont-generate-markdown",
+            ]
+            print("Running:", " ".join(cmd))
+            subprocess.check_call(cmd)
+
+            # Infer language tag
+            lang = "CN" if re.search(r"(^|[_\\-])cn([_\\-]|$)", base, re.I) else "EN"
+
+            # Friendly name from filename
+            # Example: Wenbin_Zhang_CN_CV -> Wenbin Zhang (CN)
+            friendly = base.replace("_", " ").replace("-", " ")
+            friendly = re.sub(r"\\bCV\\b", "", friendly, flags=re.I).strip()
+            friendly = re.sub(r"\\bCN\\b", "(CN)", friendly, flags=re.I)
+            friendly = re.sub(r"\\s+", " ", friendly).strip()
+
+            items.append({
+              "file": out,
+              "name": friendly if friendly else base,
+              "lang": lang
+            })
+
+          payload = {
+            "built_at": datetime.datetime.utcnow().isoformat(timespec="seconds") + "Z",
+            "items": items
+          }
+          with open(os.path.join("site","cvs.json"), "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+
+          print("Generated site/cvs.json with", len(items), "items")
+          PY
 
       - name: Add landing page
         run: |

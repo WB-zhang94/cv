@@ -132,109 +132,122 @@ cv:
       - "Journal referee for: *International Journal of Geographical Information Science*; *Annals of the American Association of Geographers*; *Nature Food*; *Scientific Data*; *GIScience & Remote Sensing*; *International Journal of Applied Earth Observation and Geoinformation*; *Resources, Conservation & Recycling*; *Networks and Spatial Economics*; *The Annals of Regional Science*."
 
     Publications:
-      - |-
-          † Co-first author.  
-          * Corresponding author.
+      - † Co-first author.  
+      - * Corresponding author.
+      
+      - title: "Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia"
+        authors: ["W. Fang", "Wen-Bin Zhang", "D. Woods", "et al."]
+        venue: "Journal of Urban Health"
+        year: 2026
+        doi: "10.1007/s11524-026-01077-z"
 
-      - |-
-          **2026**
+      - title: "Assessing context-dependent effectiveness of heat adaptation through human mobility under different heatwave regimes"
+        authors: ["H. Liu", "S. Wang", "C. Wei", "Wen-Bin Zhang", "A. J. Tatem", "S. Lai"]
+        venue: "Sustainable Cities and Society"
+        year: 2026
+        doi: "10.1016/j.scs.2025.107066"
 
-          1. [Fang, W., Zhang Wen-Bin, Woods, D., *et al.* (2026)](https://doi.org/10.1007/s11524-026-01077-z).  
-             **Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia.**  
-             *Journal of Urban Health*.
+      - title: "A stochastic approach to integerize floating-point estimates in gridded population mapping"
+        authors: ["Wen-Bin Zhang", "A. Sorichetta", "C. Frye", "N. Tejedor-Garavito", "W. Fang", "D. Cihan", "et al."]
+        venue: "International Journal of Geographical Information Science"
+        year: 2025
+        doi: "10.1080/13658816.2025.2568721"
 
-          2. [Liu, H., Wang, S., Wei, C., Zhang Wen-Bin, Tatem, A. J., Lai, S. (2026)](https://doi.org/10.1016/j.scs.2025.107066).  
-             **Assessing context-dependent effectiveness of heat adaptation through human mobility under different heatwave regimes.**  
-             *Sustainable Cities and Society*, 136, 107066.
+      - title: "Assessing the impacts of gridded population model choice on degree of urbanisation metrics"
+        authors: ["Wen-Bin Zhang", "D. Woods", "I. D. Olowe", "M. Schiavina", "W. Fang", "G. Hornby", "et al."]
+        venue: "Cities"
+        year: 2025
+        doi: "10.1016/j.cities.2025.106293"
 
-      - |-
-          **2025**
+      - title: "High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023)"
+        authors: ["R. Priyatikanto", "H. Chamberlain", "M. Bondarenko", "Wen-Bin Zhang", "et al."]
+        venue: "VeriXiv"
+        year: 2025
+        doi: "10.12688/verixiv.1584.1"
 
-          1. [Zhang Wen-Bin, Sorichetta, A., Frye, C., Tejedor-Garavito, N., Fang, W., Cihan, D., *et al.* (2025)](https://doi.org/10.1080/13658816.2025.2568721).  
-             **A stochastic approach to integerize floating-point estimates in gridded population mapping.**  
-             *International Journal of Geographical Information Science*, 1–17.
+      - title: "Optimizing the detection of emerging infections using mobility-based spatial sampling"
+        authors: ["D. Zhang", "Y. Ge", "J. Wang", "H. Liu", "Wen-Bin Zhang", "et al."]
+        venue: "International Journal of Applied Earth Observation and Geoinformation"
+        year: 2024
+        doi: "10.1016/j.jag.2024.103949"
 
-          2. [Zhang Wen-Bin, Woods, D., Olowe, I. D., Schiavina, M., Fang, W., Hornby, G., *et al.* (2025)](https://doi.org/10.1016/j.cities.2025.106293).  
-             **Assessing the impacts of gridded population model choice on degree of urbanisation metrics.**  
-             *Cities*, 166, 106293.
+      - title: "Scaling Geospatial Data from the Perspective of Complexity: Exploring the Scaling Behavior of the Entropogram"
+        authors: ["Wen-Bin Zhang", "Y. Ge", "S. Lai", "P. M. Atkinson"]
+        venue: "Annals of the American Association of Geographers"
+        year: 2024
+        doi: "10.1080/24694452.2024.2377227"
 
-          3. [Priyatikanto, R., Chamberlain, H., Bondarenko, M., Zhang Wen-Bin, *et al.* (2025)](https://doi.org/10.12688/verixiv.1584.1).  
-             **High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023).**  
-             *VeriXiv*, 2, 403.
+      - title: "Effects of public-health measures for zeroing out different SARS-CoV-2 variants"
+        authors: ["Y. Ge", "X. Wu", "Wen-Bin Zhang", "et al."]
+        venue: "Nature Communications"
+        year: 2023
+        doi: "10.1038/s41467-023-40940-4"
 
-      - |-
-          **2024**
+      - title: "Spatial Association from the Perspective of Mutual Information"
+        authors: ["Wen-Bin Zhang", "Y. Ge", "H. Bai", "Y. Jin", "A. Stein", "P. M. Atkinson"]
+        venue: "Annals of the American Association of Geographers"
+        year: 2023
+        doi: "10.1080/24694452.2023.2209629"
 
-          1. [Zhang, D., Ge, Y., Wang, J., Liu, H., Zhang Wen-Bin, *et al.* (2024)](https://doi.org/10.1016/j.jag.2024.103949).  
-             **Optimizing the detection of emerging infections using mobility-based spatial sampling.**  
-             *International Journal of Applied Earth Observation and Geoinformation*, 131, 103949.
+      - title: "Data-Driven Models Informed by Spatiotemporal Mobility Patterns for Understanding Infectious Disease Dynamics"
+        authors: ["D. Zhang", "Y. Ge", "X. Wu", "H. Liu", "Wen-Bin Zhang", "S. Lai"]
+        venue: "ISPRS International Journal of Geo-Information"
+        year: 2023
+        doi: "10.3390/ijgi12070266"
 
-          2. [Zhang Wen-Bin, Ge, Y., Lai, S., & Atkinson, P. M. (2024)](https://doi.org/10.1080/24694452.2024.2377227).  
-             **Scaling Geospatial Data from the Perspective of Complexity: Exploring the Scaling Behavior of the Entropogram.**  
-             *Annals of the American Association of Geographers*, 114(10), 2264–2280.
+      - title: "Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories"
+        authors: ["Y. Ge", "Wen-Bin Zhang", "X. Wu", "et al."]
+        venue: "Nature Communications"
+        year: 2022
+        doi: "10.1038/s41467-022-30897-1"
 
-      - |-
-          **2023**
+      - title: "Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space"
+        authors: ["Y. Ge", "Wen-Bin Zhang", "H. Liu", "et al."]
+        venue: "International Journal of Applied Earth Observation and Geoinformation"
+        year: 2022
+        doi: "10.1016/j.jag.2021.102649"
 
-          1. [Ge, Y., Wu, X., Zhang Wen-Bin†, *et al.* (2023)](https://doi.org/10.1038/s41467-023-40940-4).  
-             **Effects of public-health measures for zeroing out different SARS-CoV-2 variants.**  
-             *Nature Communications*, 14(1), 5270.
+      - title: "Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modelling study in China"
+        authors: ["Y. Ge", "Wen-Bin Zhang", "J. Wang", "et al."]
+        venue: "BMC Public Health"
+        year: 2021
+        doi: "10.1186/s12889-021-10624-z"
 
-          2. [Zhang Wen-Bin, Ge, Y., Bai, H., Jin, Y., Stein, A., & Atkinson, P. M. (2023)](https://doi.org/10.1080/24694452.2023.2209629).  
-             **Spatial Association from the Perspective of Mutual Information.**  
-             *Annals of the American Association of Geographers*, 113(8), 1960–1976.
+      - title: "Ranking of VGI contributor reputation using an evaluation-based weighted PageRank"
+        authors: ["D. Zhang", "Y. Ge", "A. Stein", "Wen-Bin Zhang"]
+        venue: "Transactions in GIS"
+        year: 2021
+        doi: "10.1111/tgis.12735"
 
-          3. [Zhang, D., Ge, Y., Wu, X., Liu, H., Zhang Wen-Bin, & Lai, S. (2023)](https://doi.org/10.3390/ijgi12070266).  
-             **Data-Driven Models Informed by Spatiotemporal Mobility Patterns for Understanding Infectious Disease Dynamics.**  
-             *ISPRS International Journal of Geo-Information*, 12(7), 266.
+      - title: "A location-and-form-based distance for geographical analysis"
+        authors: ["Y. Zhou", "Y. Leung", "Wen-Bin Zhang"]
+        venue: "Annals of the American Association of Geographers"
+        year: 2021
+        doi: "10.1080/24694452.2020.1869734"
 
-      - |-
-          **2022**
+      - title: "A georeferenced graph model for geospatial data matching by optimising measures of similarity across multiple scales"
+        authors: ["Wen-Bin Zhang", "Y. Ge", "Y. Leung", "Y. Zhou"]
+        venue: "International Journal of Geographical Information Science"
+        year: 2021
+        doi: "10.1080/13658816.2020.1858301"
 
-          1. [Ge, Y., Zhang Wen-Bin†, Wu, X., *et al.* (2022)](https://doi.org/10.1038/s41467-022-30897-1).  
-             **Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories.**  
-             *Nature Communications*, 13(1), 3106.
+      - title: "Risk assessment of the step-by-step return-to-work policy in Beijing following the COVID-19 epidemic peak"
+        authors: ["Wen-Bin Zhang", "Y. Ge", "M. Liu", "et al."]
+        venue: "Stochastic Environmental Research and Risk Assessment"
+        year: 2020
+        doi: "10.1007/s00477-020-01929-3"
 
-          2. [Ge, Y., Zhang Wen-Bin†, Liu, H., *et al.* (2022)](https://doi.org/10.1016/j.jag.2021.102649).  
-             **Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space.**  
-             *International Journal of Applied Earth Observation and Geoinformation*, 106, 102649.
+      - title: "Analysis of positional uncertainty of road networks in volunteered geographic information with a statistically defined buffer-zone method"
+        authors: ["Wen-Bin Zhang", "Y. Leung", "J. H. Ma"]
+        venue: "International Journal of Geographical Information Science"
+        year: 2019
+        doi: "10.1080/13658816.2019.1606430"
 
-      - |-
-          **2021**
+      - title: "Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City"
+        authors: ["Wen-Bin Zhang", "W. Fang", "J. H. Ma"]
+        venue: "Journal of Nanjing Normal University (Natural Science Edition)"
+        year: 2019
 
-          1. [Ge, Y., Zhang Wen-Bin†, Wang, J., *et al.* (2021)](https://doi.org/10.1186/s12889-021-10624-z).  
-             **Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modelling study in China.**  
-             *BMC Public Health*, 21, 604.
-
-          2. [Zhang, D., Ge, Y., Stein, A., & Zhang Wen-Bin (2021)](https://doi.org/10.1111/tgis.12735).  
-             **Ranking of VGI contributor reputation using an evaluation-based weighted PageRank.**  
-             *Transactions in GIS*, 25(3), 1439–1459.
-
-          3. [Zhou, Y., Leung, Y., & Zhang Wen-Bin (2021)](https://doi.org/10.1080/24694452.2020.1869734).  
-             **A location-and-form-based distance for geographical analysis.**  
-             *Annals of the American Association of Geographers*, 111(4), 1253–1270.
-
-          4. [Zhang Wen-Bin, Ge, Y., Leung, Y., & Zhou, Y. (2021)](https://doi.org/10.1080/13658816.2020.1858301).  
-             **A georeferenced graph model for geospatial data matching by optimising measures of similarity across multiple scales.**  
-             *International Journal of Geographical Information Science*, 35(11), 2339–2355.
-
-      - |-
-          **2020**
-
-          1. [Zhang Wen-Bin, Ge, Y., Liu, M., *et al.* (2020)](https://doi.org/10.1007/s00477-020-01929-3).  
-             **Risk assessment of the step-by-step return-to-work policy in Beijing following the COVID-19 epidemic peak.**  
-             *Stochastic Environmental Research and Risk Assessment*, 35(2), 481–498.
-
-      - |-
-          **2019**
-
-          1. [Zhang Wen-Bin, Leung, Y., & Ma, J. H. (2019)](https://doi.org/10.1080/13658816.2019.1606430).  
-             **Analysis of positional uncertainty of road networks in volunteered geographic information with a statistically defined buffer-zone method.**  
-             *International Journal of Geographical Information Science*, 33(9), 1807–1828.
-
-          2. Zhang Wen-Bin, Fang, W., & Ma, J. H. (2019).  
-             **Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City.**  
-             *Journal of Nanjing Normal University (Natural Science Edition)*, 42(1), 138–144.
 
     Reports:
       - |-

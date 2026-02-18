@@ -1,0 +1,17 @@
+cv:
+  name: WENBIN ZHANG (张文彬)
+  headline: Senior Research Fellow — WorldPop, University of Southampton
+  location: Southampton, United Kingdom
+  email: wb.zhang@soton.ac.uk
+  phone: "+44-7397073935"
+  website: "https://www.researchgate.net/profile/Wenbin-Zhang-6"
+
+  social_networks:
+    - network: ORCID
+      username: 0000-0002-9295-1019
+
+  custom_connections:
+    - placeholder: "Scopus ID: 57208577846"
+      url: "https://www.scopus.com/authid/detail.uri?authorId=57208577846"
+      fontawesome_icon: "id-card"
+    -

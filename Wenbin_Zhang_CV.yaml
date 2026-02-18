@@ -10,14 +10,6 @@ cv:
     - network: ORCID
       username: 0000-0002-9295-1019
 
-  custom_connections:
-    - placeholder: "Scopus ID: 57208577846"
-      url: "https://www.scopus.com/authid/detail.uri?authorId=57208577846"
-      fontawesome_icon: "id-card"
-    - placeholder: "Publons/WoS: AAJ-9167-2021"
-      url: "https://publons.com/researcher/AAJ-9167-2021/"
-      fontawesome_icon: "id-card"
-
   sections:
     Profile:
       - "Geographical Information Scientist specialising in spatial heterogeneity, spatial uncertainty, and high-resolution population mapping. My research integrates spatial information theory, scalable interpolation, and demographic modelling to support urbanisation metrics (DEGURBA), health geography, and policy-relevant population analytics."

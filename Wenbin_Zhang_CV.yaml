@@ -16,7 +16,7 @@ cv:
       fontawesome_icon: "id-card"
     - placeholder: "Publons/WoS: AAJ-9167-2021"
       url: "https://publons.com/researcher/AAJ-9167-2021/"
-      fontawesome_icon: "id-badge"
+      fontawesome_icon: "id-card"
 
   sections:
 

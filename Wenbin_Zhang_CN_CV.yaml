@@ -5,116 +5,117 @@ cv:
   email: wb.zhang@soton.ac.uk
   website: https://www.researchgate.net/profile/Wenbin-Zhang-6
 
-sections:
+  sections:
 
-  学术定位:
-    - "围绕复杂地理空间系统的尺度行为与不确定性传播机制开展理论创新与方法研发。"
-    - "构建空间信息论与空间统计融合框架，揭示空间复杂性、多尺度关联与支撑域转换机制。"
-    - "面向高分辨率人口与城市数据发展可扩展空间建模方法。"
-    - "形成“空间信息论—尺度理论—人口格网建模”相对独立研究方向。"
+    学术定位:
+      - "围绕复杂地理空间系统的尺度行为与不确定性传播机制开展理论创新与方法研发。"
+      - "构建空间信息论与空间统计融合框架，揭示空间复杂性、多尺度关联与支撑域转换机制。"
+      - "面向高分辨率人口与城市数据发展可扩展空间建模方法。"
+      - "形成“空间信息论—尺度理论—人口格网建模”相对独立研究方向。"
 
-  核心学术贡献:
+    核心学术贡献:
+      - title: "多尺度空间信息论框架（Entropogram）"
+        details:
+          - "提出从信息论视角刻画空间复杂性与尺度行为的分析框架。"
+          - "构建 entropogram 多尺度空间关联方法。"
+          - "相关成果发表于 Annals of the American Association of Geographers（2023, 2024）。"
 
-    - title: "多尺度空间信息论框架（Entropogram）"
-      details:
-        - "提出从信息论视角刻画空间复杂性与尺度行为的分析框架。"
-        - "构建 entropogram 多尺度空间关联方法。"
-        - "相关成果发表于 Annals of the American Association of Geographers（2023, 2024）。"
+      - title: "支撑域转换与不确定性传播"
+        details:
+          - "系统分析 change-of-support 对空间统计推断的影响。"
+          - "发展可扩展空间插值与不确定性量化框架。"
 
-    - title: "支撑域转换与不确定性传播"
-      details:
-        - "系统分析 change-of-support 对空间统计推断的影响。"
-        - "发展可扩展空间插值与不确定性量化框架。"
+      - title: "人口格网建模与城镇化指标评估"
+        details:
+          - "提出浮点人口估计随机整数化方法（IJGIS, 2025）。"
+          - "评估人口模型选择对 DEGURBA 分类的影响（Cities, 2025）。"
+          - "参与欧盟 DG REGIO / JRC 技术报告。"
 
-    - title: "人口格网建模与城镇化指标评估"
-      details:
-        - "提出浮点人口估计随机整数化方法（IJGIS, 2025）。"
-        - "评估人口模型选择对 DEGURBA 分类的影响（Cities, 2025）。"
-        - "参与欧盟 DG REGIO / JRC 技术报告。"
+      - title: "移动性数据与健康地理"
+        details:
+          - "研究非药物干预与疫苗接种的空间效应（Nature Communications, 2022）。"
+          - "探索移动性数据在疫情监测中的空间建模应用。"
 
-    - title: "移动性数据与健康地理"
-      details:
-        - "研究非药物干预与疫苗接种的空间效应（Nature Communications, 2022）。"
-        - "探索移动性数据在疫情监测中的空间建模应用。"
+    代表性论文:
+      - "Zhang Wen-Bin*, Ge, Y., Lai, S., & Atkinson, P. M. (2024). Scaling Geospatial Data from the Perspective of Complexity. Annals of the American Association of Geographers."
+      - "Zhang Wen-Bin*, Ge, Y., Bai, H., et al. (2023). Spatial Association from the Perspective of Mutual Information. Annals of the American Association of Geographers."
+      - "Zhang Wen-Bin*, Sorichetta, A., Frye, C., et al. (2025). A stochastic approach to integerize floating-point estimates in gridded population mapping. IJGIS."
+      - "Zhang Wen-Bin*, Woods, D., et al. (2025). Assessing the impacts of gridded population model choice on degree of urbanisation metrics. Cities."
+      - "Ge, Y., Zhang Wen-Bin†, et al. (2022). Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories. Nature Communications."
 
-  代表性论文:
-    - "Zhang Wen-Bin*, Ge, Y., Lai, S., & Atkinson, P. M. (2024). Scaling Geospatial Data from the Perspective of Complexity. Annals of the American Association of Geographers."
-    - "Zhang Wen-Bin*, Ge, Y., Bai, H., et al. (2023). Spatial Association from the Perspective of Mutual Information. Annals of the American Association of Geographers."
-    - "Zhang Wen-Bin*, Sorichetta, A., Frye, C., et al. (2025). A stochastic approach to integerize floating-point estimates in gridded population mapping. IJGIS."
-    - "Zhang Wen-Bin*, Woods, D., et al. (2025). Assessing the impacts of gridded population model choice on degree of urbanisation metrics. Cities."
-    - "Ge, Y., Zhang Wen-Bin†, et al. (2022). Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories. Nature Communications."
+    学术影响力:
+      - "累计发表论文 19 篇，其中 SCI 收录 17 篇。"
+      - "JCR Q1 期刊论文 15 篇，占 SCI 论文比例约 88%。"
+      - "以第一或核心作者在 Nature Communications、AAAG、IJGIS 等国际顶级期刊发表论文 9 篇。"
+      - "Google Scholar 引用 329 次，h-index 8。"
+      - "研究成果支撑欧盟 DG REGIO / JRC 城镇化指标体系构建。"
 
-  学术影响力:
-    - "累计发表论文 19 篇，其中 SCI 收录 17 篇。"
-    - "JCR Q1 期刊论文 15 篇，占 SCI 论文比例约 88%。"
-    - "以第一或核心作者在 Nature Communications、AAAG、IJGIS 等国际顶级期刊发表论文 9 篇。"
-    - "Google Scholar 引用 329 次，h-index 8。"
-    - "研究成果支撑欧盟 DG REGIO / JRC 城镇化指标体系构建。"
+    科研产出与数据产品:
+      - "DEGURBA Level 1 数据集（16国，UNIMI Dataverse，2026）。"
+      - "WorldPop 2024 全球18岁以下人口格网数据产品。"
+      - "WorldPop 2024 全球1岁以下人口格网数据产品。"
 
-  科研产出与数据产品:
-    - "DEGURBA Level 1 数据集（16国，UNIMI Dataverse，2026）。"
-    - "WorldPop 2024 全球18岁以下人口格网数据产品。"
-    - "WorldPop 2024 全球1岁以下人口格网数据产品。"
+    工作经历:
+      - company: "University of Southampton (WorldPop)"
+        position: "Senior Research Fellow"
+        location: "United Kingdom"
+        start_date: 2026-02
+        end_date: present
 
-  工作经历:
-    - company: "University of Southampton (WorldPop)"
-      position: "Senior Research Fellow"
-      location: "United Kingdom"
-      start_date: "2026-02"
-      end_date: "present"
+      - company: "University of Southampton (WorldPop)"
+        position: "Research Fellow"
+        location: "United Kingdom"
+        start_date: 2023-08
+        end_date: 2026-02
 
-    - company: "University of Southampton (WorldPop)"
-      position: "Research Fellow"
-      location: "United Kingdom"
-      start_date: "2023-08"
-      end_date: "2026-02"
+      - company: "Lancaster University"
+        position: "Visiting Researcher"
+        location: "United Kingdom"
+        start_date: 2022-01
+        end_date: 2022-09
 
-    - company: "Lancaster University"
-      position: "Visiting Researcher"
-      location: "United Kingdom"
-      start_date: "2019-09"
-      end_date: "2023-07"
+      - company: "The Chinese University of Hong Kong (Institute of Future Cities)"
+        position: "Research Assistant"
+        location: "Hong Kong SAR, China"
+        start_date: 2017-10
+        end_date: 2018-08
 
-    - company: "The Chinese University of Hong Kong (Institute of Future Cities)"
-      position: "Research Assistant"
-      location: "Hong Kong SAR, China"
-      start_date: "2019-09"
-      end_date: "2023-07"
+    教育背景:
+      - institution: "University of Chinese Academy of Sciences"
+        degree: "PhD"
+        area: "Cartography and GIS"
+        start_date: 2019-09
+        end_date: 2023-07
 
-  教育背景:
-    - institution: "University of Chinese Academy of Sciences"
-      degree: "PhD"
-      area: "Cartography and GIS"
-      start_date: "2019-09"
-      end_date: "2023-07"
+      - institution: "Chang’an University"
+        degree: "MSc"
+        area: "Mathematics"
+        start_date: 2016-09
+        end_date: 2019-07
 
-    - institution: "Chang’an University"
-      degree: "MSc"
-      area: "Mathematics"
-      start_date: "2016-09"
-      end_date: "2019-07"
+      - institution: "Chang’an University"
+        degree: "BSc"
+        area: "Applied Mathematics"
+        start_date: 2012-09
+        end_date: 2016-07
 
-    - institution: "Chang’an University"
-      degree: "BSc"
-      area: "Applied Mathematics"
-      start_date: "2012-09"
-      end_date: "2016-07"
+    回国后3–5年研究计划:
+      - title: "总体目标"
+        details:
+          - "构建复杂地理空间系统尺度行为与不确定性传播的统一理论框架。"
 
-  回国后3–5年研究计划:
+      - title: "重点方向"
+        details:
+          - "建立空间信息论与空间统计融合模型体系。"
+          - "发展面向超大规模人口与城市数据的可扩展建模方法。"
+          - "构建具有自主知识产权的高分辨率人口与城镇化数据产品。"
+          - "支撑国家新型城镇化与公共卫生空间治理。"
 
-    - title: "总体目标"
-      details:
-        - "构建复杂地理空间系统尺度行为与不确定性传播的统一理论框架。"
+      - title: "预期成果"
+        details:
+          - "发表高水平理论论文，形成稳定研究方向。"
+          - "主持国家自然科学基金面上项目。"
+          - "建设跨学科空间数据建模研究团队。"
 
-    - title: "重点方向"
-      details:
-        - "建立空间信息论与空间统计融合模型体系。"
-        - "发展面向超大规模人口与城市数据的可扩展建模方法。"
-        - "构建具有自主知识产权的高分辨率人口与城镇化数据产品。"
-        - "支撑国家新型城镇化与公共卫生空间治理。"
-
-    - title: "预期成果"
-      details:
-        - "发表高水平理论论文，形成稳定研究方向。"
-        - "主持国家自然科学基金面上项目。"
-        - "建设跨学科空间数据建模研究团队。"
+design:
+  theme: classic

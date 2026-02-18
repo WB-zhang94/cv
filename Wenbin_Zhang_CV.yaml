@@ -34,13 +34,17 @@ cv:
       - "Geographical Information Science; spatial heterogeneity and uncertainty; multiscale spatial association; spatial interpolation; population modelling; urbanisation metrics (DEGURBA); health geography; mobility-informed spatial sampling."
 
     Grants and funding:
-      - title: "To be updated"
-        details:
-          - "Role: To be updated"
-          - "Funder: To be updated"
-          - "Amount: £—"
-          - "Year: —"
-          
+      - label: "Role"
+        details: "To be updated"
+      - label: "Grant"
+        details: "To be updated"
+      - label: "Funder"
+        details: "To be updated"
+      - label: "Amount"
+        details: "£—"
+      - label: "Year"
+        details: "—"
+
     Teaching and supervision:
       - "To be updated (e.g., MSc/PhD co-supervision, guest lecturing, practicals/workshops)."
 

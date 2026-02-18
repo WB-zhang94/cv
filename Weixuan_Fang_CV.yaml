@@ -2,13 +2,9 @@ cv:
   name: FANG Weixuan
   headline: PhD in Urban Policy | Urban Planning & Self-Organised Urban Development
   location: Winchester, United Kingdom
-  date_of_birth: 1994-03-07
-  gender: Female
-  nationality: China
   email: fwx037@icloud.com
   phone: "+44 7897474544"
-  address: "2 Talavera Road, Winchester, United Kingdom, SO22 4SD"
-
+  
   sections:
 
     Profile:
@@ -48,7 +44,7 @@ cv:
     Employment experience:
       - company: "University of Southampton"
         position: "Research Assistant"
-        location: "Southampton, United Kingdom"
+        location: "United Kingdom"
         start_date: 2025-05
         end_date: 2025-10
         highlights:

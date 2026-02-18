@@ -1,0 +1,42 @@
+name: Build and Publish CV
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install RenderCV
+        run: pip install "rendercv[full]"
+
+      - name: Render CV
+        run: rendercv render Wenbin_Zhang_CV.yaml --dont-generate-png
+
+      - name: Prepare Pages site
+        run: |
+          mkdir -p site
+          cp rendercv_output/Wenbin_Zhang_CV.pdf site/cv.pdf
+          if [ -f rendercv_output/Wenbin_Zhang_CV.html ]; then cp rendercv_output/Wenbin_Zhang_CV.html site/index.html; fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4

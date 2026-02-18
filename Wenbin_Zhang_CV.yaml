@@ -34,12 +34,13 @@ cv:
       - "Geographical Information Science; spatial heterogeneity and uncertainty; multiscale spatial association; spatial interpolation; population modelling; urbanisation metrics (DEGURBA); health geography; mobility-informed spatial sampling."
 
     Grants and funding:
-      - role: "To be updated"
-        title: "To be updated"
-        funder: "To be updated"
-        amount: "£—"
-        year: "—"
-
+      - title: "To be updated"
+        details:
+          - "Role: To be updated"
+          - "Funder: To be updated"
+          - "Amount: £—"
+          - "Year: —"
+          
     Teaching and supervision:
       - "To be updated (e.g., MSc/PhD co-supervision, guest lecturing, practicals/workshops)."
 
@@ -81,7 +82,8 @@ cv:
 
     Education:
       - institution: "University of Chinese Academy of Sciences"
-        degree: "PhD, Cartography and GIS"
+        degree: "PhD"
+        area: "Cartography and GIS"
         location: "Beijing, China"
         start_date: 2019-09
         end_date: 2023-07
@@ -91,7 +93,8 @@ cv:
           - "GPA: 3.61/4."
 
       - institution: "Chang’an University"
-        degree: "MSc, Mathematics"
+        degree: "MSc"
+        area: "Mathematics"
         location: "Xi’an, China"
         start_date: 2016-09
         end_date: 2019-07
@@ -100,7 +103,8 @@ cv:
           - "GPA: 87/100."
 
       - institution: "Chang’an University"
-        degree: "BSc, Applied Mathematics"
+        degree: "BSc"
+        area: "Applied Mathematics"
         location: "Xi’an, China"
         start_date: 2012-09
         end_date: 2016-07

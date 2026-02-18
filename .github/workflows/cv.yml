@@ -41,8 +41,10 @@ jobs:
             --dont-generate-html \
             --dont-generate-markdown
 
-      - name: Show site files
-        run: ls -la site
+      - name: Add landing page
+        run: |
+          cp index.html site/index.html
+          ls -la site
 
       - uses: actions/upload-pages-artifact@v3
         with:

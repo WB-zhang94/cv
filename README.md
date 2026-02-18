@@ -1,6 +1,14 @@
-## Download PDFs
-- 📄 **Wenbin Zhang** — [Download CV (PDF)](https://WB-zhang94.github.io/cv/wenbin.pdf)
-- 📄 **Weixuan Fang** — [Download CV (PDF)](https://WB-zhang94.github.io/cv/weixuan.pdf)
+## 📄 Download CVs (PDF)
 
-## Webpage
-- 🌐 [Public CV page](https://WB-zhang94.github.io/cv/)
+### Wenbin Zhang (张文彬)
+- 🇬🇧 English CV: https://WB-zhang94.github.io/cv/wenbin_zhang_cv.pdf
+- 🇨🇳 Chinese CV: https://WB-zhang94.github.io/cv/wenbin_zhang_cn_cv.pdf
+
+### Weixuan Fang (方玮轩)
+- 🇬🇧 English CV: https://WB-zhang94.github.io/cv/weixuan_fang_cv.pdf
+- 🇨🇳 Chinese CV: https://WB-zhang94.github.io/cv/weixuan_fang_cn_cv.pdf
+
+---
+
+## 🌐 Webpage
+- Public CV page: https://WB-zhang94.github.io/cv/

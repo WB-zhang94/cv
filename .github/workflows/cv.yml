@@ -23,23 +23,21 @@ jobs:
       - name: Install RenderCV
         run: pip install "rendercv[full]"
 
-      - name: Render Wenbin PDF
+      - name: Render PDFs
         run: |
           mkdir -p site
+
           rendercv render Wenbin_Zhang_CV.yaml \
             --pdf-path site/wenbin.pdf \
-            --dont-generate-png \
-            --dont-generate-html \
-            --dont-generate-markdown
+            --dont-generate-png --dont-generate-html --dont-generate-markdown
 
-      - name: Render Weixuan PDF
-        run: |
-          mkdir -p site
+          rendercv render Wenbin_Zhang_CN_CV.yaml \
+            --pdf-path site/wenbin_cn.pdf \
+            --dont-generate-png --dont-generate-html --dont-generate-markdown
+
           rendercv render Weixuan_Fang_CV.yaml \
             --pdf-path site/weixuan.pdf \
-            --dont-generate-png \
-            --dont-generate-html \
-            --dont-generate-markdown
+            --dont-generate-png --dont-generate-html --dont-generate-markdown
 
       - name: Add landing page
         run: |

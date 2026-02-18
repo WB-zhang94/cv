@@ -1,4 +1,4 @@
-name: Build and Publish CV
+name: Build and Publish CVs
 
 on:
   push:
@@ -13,7 +13,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
@@ -24,29 +23,18 @@ jobs:
       - name: Install RenderCV
         run: pip install "rendercv[full]"
 
-      - name: Render CV
-        run: rendercv render Wenbin_Zhang_CV.yaml --dont-generate-png
+      - name: Render Wenbin CV
+        run: rendercv render Wenbin_Zhang_CV.yaml --output-directory output --dont-generate-png
 
-      - name: Locate and prepare output
-        run: |
-          echo "=== Searching for PDF ==="
-          find . -type f -name "*.pdf"
+      - name: Render Weixuan CV
+        run: rendercv render Weixuan_Fang_CV.yaml --output-directory output --dont-generate-png
 
-          PDF_PATH=$(find . -type f -name "*.pdf" | head -n 1)
-
-          if [ -z "$PDF_PATH" ]; then
-            echo "❌ No PDF generated."
-            exit 1
-          fi
-
-          echo "Found PDF at: $PDF_PATH"
-
-          mkdir -p site
-          cp "$PDF_PATH" site/cv.pdf
+      - name: Show output files
+        run: ls -la output
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: output
 
   deploy:
     needs: build

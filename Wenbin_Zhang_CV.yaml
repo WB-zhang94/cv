@@ -152,7 +152,7 @@ cv:
           - "Tatem, A. J."
           - "Lai, S."
         journal: "Sustainable Cities and Society"
-        date: "2026"
+        date: 2026
 
       - title: "[A stochastic approach to integerize floating-point estimates in gridded population mapping](https://doi.org/10.1080/13658816.2025.2568721)"
         authors:
@@ -168,7 +168,7 @@ cv:
           - "Tatem, A. J."
           - "Bondarenko, M."
         journal: "International Journal of Geographical Information Science"
-        date: "2025"
+        date: 2025
 
       - title: "[Assessing the impacts of gridded population model choice on degree of urbanisation metrics](https://doi.org/10.1016/j.cities.2025.106293)"
         authors:
@@ -184,7 +184,7 @@ cv:
           - "Tatem, A. J."
           - "Sorichetta, A."
         journal: "Cities"
-        date: "2025"
+        date: 2025
 
       - title: "[High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023)](https://doi.org/10.12688/verixiv.1584.1)"
         authors:
@@ -194,7 +194,7 @@ cv:
           - "**Zhang Wen-Bin**"
           - "et al."
         journal: "VeriXiv"
-        date: "2025"
+        date: 2025
 
       - title: "[Optimizing the detection of emerging infections using mobility-based spatial sampling](https://doi.org/10.1016/j.jag.2024.103949)"
         authors:
@@ -205,7 +205,7 @@ cv:
           - "**Zhang Wen-Bin**"
           - "et al."
         journal: "International Journal of Applied Earth Observation and Geoinformation"
-        date: "2024"
+        date: 2024
 
       - title: "[Scaling Geospatial Data from the Perspective of Complexity: Exploring the Scaling Behavior of the Entropogram](https://doi.org/10.1080/24694452.2024.2377227)"
         authors:
@@ -214,7 +214,7 @@ cv:
           - "Lai, S."
           - "Atkinson, P. M."
         journal: "Annals of the American Association of Geographers"
-        date: "2024"
+        date: 2024
 
       - title: "[Effects of public-health measures for zeroing out different SARS-CoV-2 variants](https://doi.org/10.1038/s41467-023-40940-4)"
         authors:
@@ -223,7 +223,7 @@ cv:
           - "**Zhang Wen-Bin**†"
           - "et al."
         journal: "Nature Communications"
-        date: "2023"
+        date: 2023
 
       - title: "[Spatial Association from the Perspective of Mutual Information](https://doi.org/10.1080/24694452.2023.2209629)"
         authors:
@@ -234,7 +234,7 @@ cv:
           - "Stein, A."
           - "Atkinson, P. M."
         journal: "Annals of the American Association of Geographers"
-        date: "2023"
+        date: 2023
 
       - title: "[Data-Driven Models Informed by Spatiotemporal Mobility Patterns for Understanding Infectious Disease Dynamics](https://doi.org/10.3390/ijgi12070266)"
         authors:
@@ -245,7 +245,7 @@ cv:
           - "**Zhang Wen-Bin**"
           - "Lai, S."
         journal: "ISPRS International Journal of Geo-Information"
-        date: "2023"
+        date: 2023
 
       - title: "[Untangling the changing impact of non-pharmaceutical interventions and vaccination on European COVID-19 trajectories](https://doi.org/10.1038/s41467-022-30897-1)"
         authors:
@@ -254,7 +254,7 @@ cv:
           - "Wu, X."
           - "et al."
         journal: "Nature Communications"
-        date: "2022"
+        date: 2022
 
       - title: "[Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space](https://doi.org/10.1016/j.jag.2021.102649)"
         authors:
@@ -263,7 +263,7 @@ cv:
           - "Liu, H."
           - "et al."
         journal: "International Journal of Applied Earth Observation and Geoinformation"
-        date: "2022"
+        date: 2022
 
       - title: "[Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modelling study in China](https://doi.org/10.1186/s12889-021-10624-z)"
         authors:
@@ -272,7 +272,7 @@ cv:
           - "Wang, J."
           - "et al."
         journal: "BMC Public Health"
-        date: "2021"
+        date: 2021
 
       - title: "[Ranking of VGI contributor reputation using an evaluation-based weighted PageRank](https://doi.org/10.1111/tgis.12735)"
         authors:
@@ -281,7 +281,7 @@ cv:
           - "Stein, A."
           - "**Zhang Wen-Bin**"
         journal: "Transactions in GIS"
-        date: "2021"
+        date: 2021
 
       - title: "[A location-and-form-based distance for geographical analysis](https://doi.org/10.1080/24694452.2020.1785269)"
         authors:
@@ -289,7 +289,7 @@ cv:
           - "Leung, Y."
           - "**Zhang Wen-Bin**"
         journal: "Annals of the American Association of Geographers"
-        date: "2021"
+        date: 2021
 
       - title: "[A georeferenced graph model for geospatial data matching by optimising measures of similarity across multiple scales](https://doi.org/10.1080/13658816.2020.1858301)"
         authors:
@@ -298,7 +298,7 @@ cv:
           - "Leung, Y."
           - "Zhou, Y."
         journal: "International Journal of Geographical Information Science"
-        date: "2021"
+        date: 2021
 
       - title: "[Risk assessment of the step-by-step return-to-work policy in Beijing following the COVID-19 epidemic peak](https://doi.org/10.1007/s00477-020-01929-3)"
         authors:
@@ -307,7 +307,7 @@ cv:
           - "Liu, M."
           - "et al."
         journal: "Stochastic Environmental Research and Risk Assessment"
-        date: "2020"
+        date: 2020
 
       - title: "[Analysis of positional uncertainty of road networks in volunteered geographic information with a statistically defined buffer-zone method](https://doi.org/10.1080/13658816.2019.1606430)"
         authors:
@@ -315,7 +315,7 @@ cv:
           - "Leung, Y."
           - "Ma, J. H."
         journal: "International Journal of Geographical Information Science"
-        date: "2019"
+        date: 2019
 
       - title: "Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City"
         authors:
@@ -323,7 +323,7 @@ cv:
           - "Fang, W."
           - "Ma, J. H."
         journal: "Journal of Nanjing Normal University (Natural Science Edition)"
-        date: "2019"
+        date: 2019
 
     Reports:
       - title: "Population and SDG indicators by Degree of Urbanisation"
@@ -336,7 +336,7 @@ cv:
           - "Olowe, I. D."
           - "Hornby, G."
         journal: "Report for DG REGIO and JRC, European Commission"
-        date: "2024"
+        date: 2024
 
     Datasets:
       - title: "[Degree of Urbanisation (DEGURBA) level 1 dataset for 16 countries in Sub-Saharan Africa and the Caribbean](https://doi.org/10.13130/RD_UNIMI/YFNFZC)"
@@ -347,7 +347,7 @@ cv:
           - "**Zhang Wen-Bin**"
           - "et al."
         journal: "UNIMI Dataverse"
-        date: "2026"
+        date: 2026
 
       - title: "[2024 total number of people under the age of 18 per grid square (R2024A v1.0)](https://doi.org/10.5258/SOTON/WP00799)"
         authors:
@@ -356,7 +356,7 @@ cv:
           - "**Zhang Wen-Bin**"
           - "et al."
         journal: "WorldPop / University of Southampton"
-        date: "2024"
+        date: 2024
 
       - title: "[2024 total number of people (under age one) per grid square (R2024A v1.0)](https://doi.org/10.5258/SOTON/WP00798)"
         authors:
@@ -366,7 +366,7 @@ cv:
           - "**Zhang Wen-Bin**"
           - "et al."
         journal: "WorldPop / University of Southampton"
-        date: "2024"
+        date: 2024
 
 design:
   theme: classic

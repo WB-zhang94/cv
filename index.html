@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Academic CVs</title>
+  <style>
+    :root{
+      --bg:#f6f7f9;
+      --card:#ffffff;
+      --text:#0f172a;
+      --muted:#475569;
+      --line:#e2e8f0;
+      --shadow: 0 10px 30px rgba(2,6,23,.08);
+      --radius:18px;
+      --max: 1060px;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      color:var(--text);
+      background: radial-gradient(1200px 700px at 10% 0%, #eef2ff 0%, var(--bg) 40%) , var(--bg);
+      line-height:1.55;
+    }
+    a{color:inherit}
+    .wrap{max-width:var(--max); margin:0 auto; padding:40px 18px 60px}
+    header{
+      display:flex; align-items:flex-end; justify-content:space-between;
+      gap:16px; margin-bottom:22px;
+    }
+    .title{
+      font-size: clamp(28px, 4vw, 40px);
+      letter-spacing:-.02em;
+      margin:0;
+    }
+    .subtitle{
+      margin:6px 0 0;
+      color:var(--muted);
+      font-size: 15px;
+    }
+    .pill{
+      display:inline-flex; gap:8px; align-items:center;
+      padding:10px 12px;
+      border:1px solid var(--line);
+      border-radius:999px;
+      background:rgba(255,255,255,.7);
+      backdrop-filter: blur(6px);
+      font-size: 13px;
+      color:var(--muted);
+      text-decoration:none;
+    }
+    .grid{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:18px;
+      margin-top:18px;
+    }
+    @media (min-width: 980px){
+      .grid{grid-template-columns: 1fr 1fr;}
+    }
+    .card{
+      background:var(--card);
+      border:1px solid var(--line);
+      border-radius:var(--radius);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+      display:flex;
+      flex-direction:column;
+      min-height: 740px;
+    }
+    .cardTop{
+      padding:18px 18px 14px;
+      border-bottom:1px solid var(--line);
+      display:flex; align-items:flex-start; justify-content:space-between; gap:14px;
+    }
+    .nameBlock h2{
+      margin:0;
+      font-size:18px;
+      letter-spacing:-.01em;
+    }
+    .meta{
+      margin:6px 0 0;
+      color:var(--muted);
+      font-size:13px;
+    }
+    .actions{
+      display:flex; gap:10px; flex-wrap:wrap; justify-content:flex-end;
+    }
+    .btn{
+      display:inline-flex; align-items:center; gap:8px;
+      padding:10px 12px;
+      border-radius:12px;
+      border:1px solid var(--line);
+      background:#0f172a;
+      color:#fff;
+      text-decoration:none;
+      font-size:13px;
+      white-space:nowrap;
+    }
+    .btn.secondary{
+      background:#fff;
+      color:var(--text);
+    }
+    .pdf{
+      width:100%;
+      height: 660px;
+      border:0;
+      background:#fff;
+    }
+    footer{
+      margin-top:26px;
+      padding-top:18px;
+      border-top:1px solid var(--line);
+      color:var(--muted);
+      font-size:13px;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+    }
+    .links{
+      display:flex;
+      gap:12px;
+      flex-wrap:wrap;
+    }
+    .smallLink{
+      color:var(--muted);
+      text-decoration:none;
+      border-bottom:1px solid transparent;
+    }
+    .smallLink:hover{border-bottom-color:var(--muted)}
+    .note{margin:0}
+    code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;}
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1 class="title">Academic CVs</h1>
+        <p class="subtitle">Auto-generated from YAML (RenderCV) and published via GitHub Pages.</p>
+      </div>
+      <a class="pill" href="./" aria-label="Public site">
+        🌐 Public site
+      </a>
+    </header>
+
+    <section class="grid">
+      <!-- Wenbin -->
+      <article class="card">
+        <div class="cardTop">
+          <div class="nameBlock">
+            <h2>Wenbin Zhang (张文彬)</h2>
+            <div class="meta">WorldPop, University of Southampton • UK</div>
+          </div>
+          <div class="actions">
+            <a class="btn" href="wenbin.pdf" download>⬇ Download PDF</a>
+            <a class="btn secondary" href="wenbin.pdf" target="_blank" rel="noopener">↗ Open</a>
+          </div>
+        </div>
+        <iframe class="pdf" src="wenbin.pdf" title="Wenbin Zhang CV PDF"></iframe>
+      </article>
+
+      <!-- Weixuan -->
+      <article class="card">
+        <div class="cardTop">
+          <div class="nameBlock">
+            <h2>Weixuan Fang</h2>
+            <div class="meta">CV preview & download</div>
+          </div>
+          <div class="actions">
+            <a class="btn" href="weixuan.pdf" download>⬇ Download PDF</a>
+            <a class="btn secondary" href="weixuan.pdf" target="_blank" rel="noopener">↗ Open</a>
+          </div>
+        </div>
+        <iframe class="pdf" src="weixuan.pdf" title="Weixuan Fang CV PDF"></iframe>
+      </article>
+    </section>
+
+    <footer>
+      <p class="note">
+        Tip: If the embedded preview doesn’t load in your browser, use <strong>Open</strong> or <strong>Download PDF</strong>.
+      </p>
+
+      <div class="links">
+        <a class="smallLink" href="./">Public site link (this page)</a>
+        <a class="smallLink" href="wenbin.pdf">Wenbin CV PDF</a>
+        <a class="smallLink" href="weixuan.pdf">Weixuan CV PDF</a>
+      </div>
+
+      <div class="links">
+        <span>Share:</span>
+        <span><code>https://WB-zhang94.github.io/cv/</code></span>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

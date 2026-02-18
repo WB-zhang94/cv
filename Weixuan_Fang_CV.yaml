@@ -14,7 +14,7 @@ cv:
       - institution: "University of Bristol"
         degree: "PhD"
         area: "Urban Policy"
-        location: "Bristol, United Kingdom"
+        location: "United Kingdom"
         start_date: 2019-09
         end_date: 2025-02
         highlights:
@@ -34,7 +34,7 @@ cv:
       - institution: "Soochow University"
         degree: "BEng"
         area: "City Management"
-        location: "Suzhou, China"
+        location: "China"
         start_date: 2012-09
         end_date: 2016-07
         highlights:
@@ -61,7 +61,7 @@ cv:
     Internship experience:
       - company: "Nanjing Land Information Industry Co., Ltd."
         position: "Summer Intern"
-        location: "Nanjing, China"
+        location: "China"
         start_date: 2013-07-01
         end_date: 2013-07-30
         highlights:
@@ -69,7 +69,7 @@ cv:
 
       - company: "Jiangsu Jinningda Real Estate Evaluation & Consultation Ltd."
         position: "Summer Intern"
-        location: "Jiangsu, China"
+        location: "China"
         start_date: 2014-08-11
         end_date: 2014-08-30
         highlights:

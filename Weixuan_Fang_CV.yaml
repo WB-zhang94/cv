@@ -79,19 +79,27 @@ cv:
     
       - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
         authors:
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Zhang W."
           - "Woods, D."
           - "et al."
         journal: "Journal of Urban Health"
         date: 2026
-        
-      - title: "A Co-evolutionary Framework for Simulating Urban Complex Growth and Adaptive Planning: A Cellular Automata-Based Approach"
+
+      - title: "Institutional Design and the Governance of Rapid Urban Expansion: Evidence from Nanjing, 1979-2020"
         authors:
-          - "Fang, W."
-        journal: "Computers, Environment and Urban Systems"
+          - "**Fang, W.**"
+          - "Zhang W."
+        journal: "Cities"
         status: "Under review"
-        date: 2025
+        date: 2026
+        
+      - title: "Divergence-Driven Co-evolution: Endogenous Regulation in Complex Urban Systems"
+        authors:
+          - "**Fang, W.**"
+        journal: "Annals of the American Association of Geographers"
+        status: "Under review"
+        date: 2026
 
       - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"
         authors:
@@ -100,7 +108,7 @@ cv:
           - "Frye, C."
           - "Tejedor-Garavito, N."
           - "Cihan, D."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Woods, D."
           - "Yetman, G."
           - "Hilton, J."
@@ -116,7 +124,7 @@ cv:
           - "Woods, D."
           - "Olowe, I.D."
           - "Schiavina, M."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Hornby, G."
           - "Bondarenko, M."
           - "Maes, J."
@@ -131,7 +139,7 @@ cv:
       - title: "Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016"
         authors:
           - "Li, J."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Shi, Y."
           - "Ren, C."
         journal: "Journal of Housing and the Built Environment"
@@ -139,12 +147,14 @@ cv:
         pages: "1433-1457"
         date: 2022
 
-    Social practice programmes:
-      - bullet: "Core Member & Secretary, Soochow Club (School dramatic club), Academic Years 2012–2013 & 2013–2014"
-      - bullet: "Volunteer, 2014 Nanjing Youth Olympic Games (YOG)"
-      - bullet: "Awarded 'Outstanding Volunteer' by the Committee of YOG"
-      - bullet: "Leader, Literature Family activity, June 2013"
-      - bullet: "Organised and participated in fundraising activities including charity bazaars and donations"
+      - title: "Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City"
+        authors:
+          - "Zhang Wen-Bin"
+          - "**Fang, W.**"
+          - "Ma, J. H."
+        journal: "Journal of Nanjing Normal University (Natural Science Edition)"
+        date: 2019
+
 
 design:
   theme: classic

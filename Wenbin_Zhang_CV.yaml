@@ -136,6 +136,66 @@ cv:
         date: 2024      
 
     Publications:
+      - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum: case studies from Nigeria and Zambia]()"
+        authors:
+          - "**Zhang, W.-B.***"
+          - "Fang, W.†"
+          - "Chamberlain, H."
+          - "Liu, H."
+          - "Liang, L."
+          - "Dotse-Gborgbortsi, W."
+          - "Bondarenko, M."
+          - "Dijkstra, L."
+          - "Tatem, A. J."
+          - "Sorichetta, A."
+        journal: "Communications Health (under review)"
+        date: 2026
+        
+      - title: "[Entropogram-based Random Field Model for Categorical Geospatial Data Prediction]()"
+        authors:
+          - "**Zhang, W.-B.***"
+          - "Ge, Y."
+          - "Wan, X."
+          - "Lai, S."
+          - "Atkinson, P. M."
+        journal: "International Journal of Geographical Information Science (under review)"
+        date: 2026
+    
+      - title: "[Global cooling inequality under climate warming through 2100]()"
+        authors:
+          - "Liang, L."
+          - "Chen, M."
+          - "Li, X."
+          - "Zhang, X."
+          - "Ma, T."
+          - "Coffman, D."
+          - "Jiang, H."
+          - "Chen, L."
+          - "Han, M."
+          - "**Zhang, W.**"
+          - "Huang, D."
+          - "Mi, Z."
+        journal: "Communications Sustainability (under review)"
+        date: 2026
+        
+      - title: "[Interactions of SARS-CoV-2, influenza and respiratory syncytial virus influence epidemic timing and risk]()"
+        authors:
+          - "Liu, Y."
+          - "Wang, X."
+          - "Li, M."
+          - "Cleary, E."
+          - "Cheng, Z."
+          - "**Zhang, W.**"
+          - "Shen, Y."
+          - "Yao, H."
+          - "Han, J."
+          - "Ruktanonchai, N."
+          - "Tatem, A."
+          - "Wang, Q."
+          - "Yang, P."
+        journal: "Communications Medicine"
+        date: 2026
+        
       - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
         authors:
           - "Fang, W."
@@ -158,7 +218,7 @@ cv:
 
       - title: "[A stochastic approach to integerize floating-point estimates in gridded population mapping](https://doi.org/10.1080/13658816.2025.2568721)"
         authors:
-          - "**Zhang Wen-Bin**"
+          - "**Zhang Wen-Bin***"
           - "Sorichetta, A."
           - "Frye, C."
           - "Tejedor-Garavito, N."

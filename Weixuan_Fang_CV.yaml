@@ -77,7 +77,7 @@ cv:
 
     Publications:
     
-      - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
+      - title: "Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia"
         authors:
           - "**Fang, W.**"
           - "Zhang W."
@@ -90,15 +90,13 @@ cv:
         authors:
           - "**Fang, W.**"
           - "Zhang W."
-        journal: "Cities"
-        status: "Under review"
+        journal: "Cities, Under review"
         date: 2026
         
       - title: "Divergence-Driven Co-evolution: Endogenous Regulation in Complex Urban Systems"
         authors:
           - "**Fang, W.**"
-        journal: "Annals of the American Association of Geographers"
-        status: "Under review"
+        journal: "Annals of the American Association of Geographers, Under review"
         date: 2026
 
       - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"
@@ -115,7 +113,6 @@ cv:
           - "Tatem, A.J."
           - "Bondarenko, M."
         journal: "International Journal of Geographical Information Science"
-        status: "Accepted"
         date: 2025
 
       - title: "Assessing the impacts of gridded population model choice on degree of urbanisation metrics"
@@ -132,8 +129,6 @@ cv:
           - "Tatem, A.J."
           - "Sorichetta, A."
         journal: "Cities"
-        volume: "166"
-        pages: "106293"
         date: 2025
 
       - title: "Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016"
@@ -143,8 +138,6 @@ cv:
           - "Shi, Y."
           - "Ren, C."
         journal: "Journal of Housing and the Built Environment"
-        volume: "37(3)"
-        pages: "1433-1457"
         date: 2022
 
       - title: "Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City"

@@ -78,38 +78,24 @@ cv:
           - "学习土地评估基本方法、流程及报告规范。"
 
     学术论文:
-
-      - title: "[Institutional Design and the Governance of Rapid Urban Expansion: Evidence from Nanjing, 1979-2020]"
-        authors:
-          - "Fang, W."
-          - "Zhang W."
-        journal: Cities
-        date: 2026
         
       - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
         authors:
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Zhang W."
           - "Woods, D."
           - "et al."
         journal: "Journal of Urban Health"
         date: 2026
 
-      - title: "A Co-evolutionary Framework for Simulating Urban Complex Growth and Adaptive Planning: A Cellular Automata-Based Approach"
-        authors:
-          - "Fang, W."
-          - "Zhang W."
-        journal: "Computers, Environment and Urban Systems"
-        date: 2025
-
-      - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"
+      - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"(https://doi.org/10.1080/13658816.2025.2568721)
         authors:
           - "Zhang, W.B."
           - "Sorichetta, A."
           - "Frye, C."
           - "Tejedor-Garavito, N."
           - "Cihan, D."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "et al."
         journal: "International Journal of Geographical Information Science"
         date: 2025
@@ -118,7 +104,7 @@ cv:
         authors:
           - "Zhang, W.B."
           - "Woods, D."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "et al."
         journal: "Cities"
         date: 2025
@@ -126,7 +112,7 @@ cv:
       - title: "Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016"
         authors:
           - "Li, J."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Shi, Y."
           - "Ren, C."
         journal: "Journal of Housing and the Built Environment"

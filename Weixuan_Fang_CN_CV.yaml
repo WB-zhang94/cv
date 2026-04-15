@@ -60,23 +60,6 @@ cv:
         highlights:
           - "合作导师：梁怡教授；李倞教授"
 
-    实习经历:
-      - company: "南京市土地信息产业有限公司"
-        position: "暑期实习生"
-        location: "中国 南京"
-        start_date: 2013-07
-        end_date: 2013-07
-        highlights:
-          - "学习 ArcGIS 模式数字化方法与空间插值分析。"
-
-      - company: "江苏金宁达房地产评估咨询有限公司"
-        position: "暑期实习生"
-        location: "中国 江苏"
-        start_date: 2014-08
-        end_date: 2014-08
-        highlights:
-          - "学习土地评估基本方法、流程及报告规范。"
-
     学术论文:
         
       - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
@@ -117,4 +100,12 @@ cv:
           - "Ren, C."
         journal: "Journal of Housing and the Built Environment"
         date: 2022
+
+      - title: "[Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City](https://doi.org/10.3969/j.issn.1001-4616.2019.01.020)"
+        authors:
+          - "Zhang Wen-Bin"
+          - "**Fang, W.**"
+          - "Ma, J. H."
+        journal: "Journal of Nanjing Normal University (Natural Science Edition)"
+        date: 2019
 

@@ -70,72 +70,60 @@ cv:
       - title: "Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems"
         url: "https://doi.org/10.1007/s10109-026-00511-9"
         authors:
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Zhang, W."
-        journal: "Journal of Geographical Systems"
+        journal: "Journal of Geographical Systems (Corresponding author)"
         date: 2026
-        notes:
-          - "Corresponding author"
-        relevance: "Theoretical and empirical analysis of institutional regulation and self-organised development dynamics."
 
       - title: "Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia"
         url: "https://doi.org/10.1007/s11524-026-01077-z"
         authors:
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Zhang, W."
           - "Woods, D."
           - "et al."
         journal: "Journal of Urban Health"
         date: 2026
-        relevance: "Comparative study connecting spatial evidence, public service access, and social inequality."
 
       - title: "A harmonised framework for assessing geographic healthcare access across the rural-urban continuum"
         url: "https://doi.org/10.1038/s44528-026-00017-2"
         authors:
           - "Zhang, W."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Chamberlain, H."
           - "et al."
-        journal: "Communications Health"
+        journal: "Communications Health (Co-first autho)"
         date: 2026
-        notes:
-          - "Co-first author"
-        relevance: "Framework-building for assessing service access and inequality across different settlement contexts."
 
       - title: "Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016"
         url: "https://doi.org/10.1007/s10901-021-09898-x"
         authors:
           - "Li, J."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Shi, Y."
           - "Ren, C."
         journal: "Journal of Housing and the Built Environment"
         date: 2022
-        relevance: "Policy-relevant analysis of housing, socio-economic conditions, and urban environmental change."
 
       - title: "Assessing the impacts of gridded population model choice on degree of urbanisation metrics"
         url: "https://doi.org/10.1016/j.cities.2025.106293"
         authors:
           - "Zhang, W.B."
           - "Woods, D."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "et al."
         journal: "Cities"
         date: 2025
-        relevance: "Methodological work on how measurement choices affect urban classification and policy-relevant evidence."
 
       - title: "Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data"
         url: "https://doi.org/10.21203/rs.3.rs-9877361/v1"
         authors:
           - "Zhang, W."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Sorichetta, A."
           - "et al."
-        journal: "Preprint"
+        journal: "Preprint (Co-first autho)"
         date: 2026
-        notes:
-          - "Co-first author"
-        relevance: "Empirical analysis of informality, urban morphology, and uneven development across cities."
 
       - title: "A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023"
         url: "https://doi.org/10.12688/verixiv.3242.1"
@@ -143,11 +131,10 @@ cv:
           - "Zhang, W."
           - "McKeen, T."
           - "Priyatikanto, R."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "et al."
         journal: "Preprint"
         date: 2026
-        relevance: "Collaborative dataset work supporting comparative research on development and built environments."
 
       - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"
         url: "https://doi.org/10.1080/13658816.2025.2568721"
@@ -157,21 +144,19 @@ cv:
           - "Frye, C."
           - "Tejedor-Garavito, N."
           - "Cihan, D."
-          - "Fang, W."
+          - "**Fang, W.**"
           - "et al."
         journal: "International Journal of Geographical Information Science"
         date: 2025
-        relevance: "Technical contribution to spatial data processing and population mapping."
 
       - title: "Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City"
         url: "https://doi.org/10.3969/j.issn.1001-4616.2019.01.020"
         authors:
           - "Zhang, Wen-Bin"
-          - "Fang, W."
+          - "**Fang, W.**"
           - "Ma, J. H."
         journal: "Journal of Nanjing Normal University (Natural Science Edition)"
         date: 2019
-        relevance: "Early research on spatial organisation, land use, and urban-rural integration."
 
     research_interests:
       - "Urban policy and governance"

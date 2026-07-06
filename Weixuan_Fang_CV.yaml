@@ -78,36 +78,43 @@ cv:
     Publications:
       - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.21203/rs.3.rs-9877361/v1)"
         authors:
-          - "Zhang W."
+          - "Zhang, W."
           - "**Fang, W.**"
           - "Sorichetta, A."
           - "et al."
-        journal: "Preprint"
+        journal: "Preprint (Co-first author)"
         date: 2026
         
       - title: "[A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023](https://doi.org/10.12688/verixiv.3242.1)"
         authors:
-          - "Zhang W."
+          - "Zhang, W."
           - "McKeen, T."
           - "Priyatikanto, R."
           - "**Fang, W.**"
           - "et al."
         journal: "Preprint"
         date: 2026
-    
+
+      - title: "[Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems](https://doi.org/10.1007/s10109-026-00511-9)"
+        authors:
+          - "**Fang, W.**"
+          - "Zhang, W."
+        journal: "Journal of Geographical Systems (Corresponding author)"
+        date: 2026
+        
       - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum](https://doi.org/10.1038/s44528-026-00017-2)"
         authors:
-          - "Zhang W."
+          - "Zhang, W."
           - "**Fang, W.**"
           - "Chamberlain, H."
           - "et al."
-        journal: "Communications Health"
+        journal: "Communications Health (Co-first author)"
         date: 2026
         
       - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
         authors:
           - "**Fang, W.**"
-          - "Zhang W."
+          - "Zhang, W."
           - "Woods, D."
           - "et al."
         journal: "Journal of Urban Health"
@@ -145,7 +152,7 @@ cv:
 
       - title: "[Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City](https://doi.org/10.3969/j.issn.1001-4616.2019.01.020)"
         authors:
-          - "Zhang Wen-Bin"
+          - "Zhang, Wen-Bin"
           - "**Fang, W.**"
           - "Ma, J. H."
         journal: "Journal of Nanjing Normal University (Natural Science Edition)"

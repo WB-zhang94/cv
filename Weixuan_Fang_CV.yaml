@@ -1,14 +1,15 @@
 cv:
   name: FANG Weixuan
-  headline: PhD in Urban Policy | Spatial Analysis & Complex Urban Development
+  headline: PhD in Urban Policy | Governance, Spatial Development & Mixed-Methods Research
   location: Winchester, United Kingdom
   email: fwx037@icloud.com
   phone: "+44 7897474544"
+  last_updated: July 2026
   
   sections:
 
     Profile:
-      - "Urban researcher specialising in spatial analysis and computational modelling of urban development dynamics. Experienced in working with large-scale spatial datasets, including cellular automata simulations and geospatial analytics. Combines quantitative modelling with strong qualitative and theoretical analysis to interpret complex urban processes."
+      - "Policy researcher with a PhD in Urban Policy, specialising in the interaction between formal governance arrangements, spatial regulation, and self-organised development dynamics. My doctoral research developed a co-evolutionary framework to analyse how planning institutions and bottom-up urban processes shape one another over time. I combine theoretical framework-building, qualitative case analysis, comparative reasoning, and quantitative/spatial methods to study complex policy and governance processes. I am particularly interested in how institutional design and administrative systems affect policy implementation, public-facing governance, and social outcomes."
 
     Education:
       - institution: "University of Bristol"
@@ -20,6 +21,9 @@ cv:
         highlights:
           - "School for Policy Studies, Faculty of Social Sciences and Law"
           - "Dissertation: The Co-Evolutionary Mechanism Between Urban Planning and Self-Organized Urban Development: A Case Study of Nanjing, 1979–2020"
+          - "Developed a theoretical framework to explain the interaction between formal planning institutions and self-organised urban development over time."
+          - "Analysed how policy intervention, spatial regulation, administrative decision-making, and bottom-up development dynamics jointly shape governance outcomes."
+          - "Conducted an in-depth longitudinal case study of Nanjing across multiple phases of institutional, policy, and urban transformation."
 
       - institution: "The Hong Kong Polytechnic University"
         degree: "MEng"
@@ -49,6 +53,9 @@ cv:
         end_date: 2025-10
         highlights:
           - "Supervisor: Dr Natalia Tejedor Garavito"
+          - "Contributed to collaborative research on urbanisation, population datasets, service accessibility, and development inequalities."
+          - "Supported literature review, empirical analysis, manuscript preparation, and academic writing for peer-reviewed research outputs."
+          - "Worked with multi-institutional research teams to connect spatial evidence with policy-relevant questions on urban development and social outcomes."
 
       - company: "The Chinese University of Hong Kong"
         position: "Research Assistant"
@@ -57,25 +64,59 @@ cv:
         end_date: 2018-10-02
         highlights:
           - "Supervisors: Professor LEUNG Yee; Professor LI Jing (Victor)"
-
-    Internship experience:
-      - company: "Nanjing Land Information Industry Co., Ltd."
-        position: "Summer Intern"
-        location: "China"
-        start_date: 2013-07-01
-        end_date: 2013-07-30
-        highlights:
-          - "Learned pattern digitization methods and spatial interpolation analysis using ArcGIS."
-
-      - company: "Jiangsu Jinningda Real Estate Evaluation & Consultation Ltd."
-        position: "Summer Intern"
-        location: "China"
-        start_date: 2014-08-11
-        end_date: 2014-08-30
-        highlights:
-          - "Learned conventional land valuation methods, procedures, and reporting requirements."
+          - "Conducted research on housing, land use, and urban development in Hong Kong and mainland China."
+          - "Supported data collection, literature review, quantitative analysis, and manuscript development for academic publication."
+          - "Contributed to research linking urban policy, socio-economic change, and environmental conditions with housing market outcomes."
 
     Publications:
+      - title: "[Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems](https://doi.org/10.1007/s10109-026-00511-9)"
+        authors:
+          - "**Fang, W.**"
+          - "Zhang, W."
+        journal: "Journal of Geographical Systems (Corresponding author)"
+        date: 2026
+        relevance: "Theoretical and empirical analysis of institutional regulation and self-organised development dynamics."
+
+      - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
+        authors:
+          - "**Fang, W.**"
+          - "Zhang, W."
+          - "Woods, D."
+          - "et al."
+        journal: "Journal of Urban Health"
+        date: 2026
+        relevance: "Comparative study connecting spatial evidence, public service access, and social inequality."
+
+      - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum](https://doi.org/10.1038/s44528-026-00017-2)"
+        authors:
+          - "Zhang, W."
+          - "**Fang, W.**"
+          - "Chamberlain, H."
+          - "et al."
+        journal: "Communications Health (Co-first author)"
+        date: 2026
+        relevance: "Framework-building for assessing service access and inequality across different settlement contexts."
+
+      - title: "[Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016](https://doi.org/10.1007/s10901-021-09898-x)"
+        authors:
+          - "Li, J."
+          - "**Fang, W.**"
+          - "Shi, Y."
+          - "Ren, C."
+        journal: "Journal of Housing and the Built Environment"
+        date: 2022
+        relevance: "Policy-relevant analysis of housing, socio-economic conditions, and urban environmental change."
+
+      - title: "[Assessing the impacts of gridded population model choice on degree of urbanisation metrics](https://doi.org/10.1016/j.cities.2025.106293)"
+        authors:
+          - "Zhang, W.B."
+          - "Woods, D."
+          - "**Fang, W.**"
+          - "et al."
+        journal: "Cities"
+        date: 2025
+        relevance: "Methodological work on how measurement choices affect urban classification and policy-relevant evidence."
+
       - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.21203/rs.3.rs-9877361/v1)"
         authors:
           - "Zhang, W."
@@ -84,6 +125,7 @@ cv:
           - "et al."
         journal: "Preprint (Co-first author)"
         date: 2026
+        relevance: "Empirical analysis of informality, urban morphology, and uneven development across cities."
         
       - title: "[A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023](https://doi.org/10.12688/verixiv.3242.1)"
         authors:
@@ -94,31 +136,7 @@ cv:
           - "et al."
         journal: "Preprint"
         date: 2026
-
-      - title: "[Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems](https://doi.org/10.1007/s10109-026-00511-9)"
-        authors:
-          - "**Fang, W.**"
-          - "Zhang, W."
-        journal: "Journal of Geographical Systems (Corresponding author)"
-        date: 2026
-        
-      - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum](https://doi.org/10.1038/s44528-026-00017-2)"
-        authors:
-          - "Zhang, W."
-          - "**Fang, W.**"
-          - "Chamberlain, H."
-          - "et al."
-        journal: "Communications Health (Co-first author)"
-        date: 2026
-        
-      - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
-        authors:
-          - "**Fang, W.**"
-          - "Zhang, W."
-          - "Woods, D."
-          - "et al."
-        journal: "Journal of Urban Health"
-        date: 2026
+        relevance: "Collaborative dataset work supporting comparative research on development and built environments."
 
       - title: "[A stochastic approach to integerise floating-point estimates in gridded population mapping](https://doi.org/10.1080/13658816.2025.2568721)"
         authors:
@@ -131,24 +149,7 @@ cv:
           - "et al."
         journal: "International Journal of Geographical Information Science"
         date: 2025
-
-      - title: "[Assessing the impacts of gridded population model choice on degree of urbanisation metrics](https://doi.org/10.1016/j.cities.2025.106293)"
-        authors:
-          - "Zhang, W.B."
-          - "Woods, D."
-          - "**Fang, W.**"
-          - "et al."
-        journal: "Cities"
-        date: 2025
-
-      - title: "[Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016](https://doi.org/10.1007/s10901-021-09898-x)"
-        authors:
-          - "Li, J."
-          - "**Fang, W.**"
-          - "Shi, Y."
-          - "Ren, C."
-        journal: "Journal of Housing and the Built Environment"
-        date: 2022
+        relevance: "Technical contribution to spatial data processing and population mapping."
 
       - title: "[Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City](https://doi.org/10.3969/j.issn.1001-4616.2019.01.020)"
         authors:
@@ -157,7 +158,7 @@ cv:
           - "Ma, J. H."
         journal: "Journal of Nanjing Normal University (Natural Science Edition)"
         date: 2019
-
+        relevance: "Early research on spatial organisation, land use, and urban-rural integration."
 
 design:
   theme: classic

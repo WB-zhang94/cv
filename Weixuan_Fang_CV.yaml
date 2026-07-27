@@ -133,7 +133,7 @@ cv:
           - "Priyatikanto, R."
           - "**Fang, W.**"
           - "et al."
-        journal: "Preprint"
+        journal: "Gates Open Research"
         date: 2026
 
       - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"
@@ -157,25 +157,6 @@ cv:
           - "Ma, J. H."
         journal: "Journal of Nanjing Normal University (Natural Science Edition)"
         date: 2019
-
-    research_interests:
-      - "Urban policy and governance"
-      - "Spatial regulation and planning institutions"
-      - "Self-organised urban development"
-      - "Institutional design and policy implementation"
-      - "Urbanisation, inequality, and service accessibility"
-      - "Mixed-methods research"
-      - "Spatial data analysis and comparative urban studies"
-
-    skills:
-      - "Qualitative case study research"
-      - "Comparative policy analysis"
-      - "Theoretical framework development"
-      - "Literature review and academic writing"
-      - "Spatial analysis and geospatial data interpretation"
-      - "Quantitative analysis"
-      - "Urban and regional policy research"
-      - "Manuscript preparation and collaborative research"
 
 design:
   theme: "classic"

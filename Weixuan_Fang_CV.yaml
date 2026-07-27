@@ -67,16 +67,14 @@ cv:
           - "Contributed to research linking urban policy, socio-economic change, and environmental conditions with housing market outcomes."
 
     publications:
-      - title: "Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems"
-        url: "https://doi.org/10.1007/s10109-026-00511-9"
+      - title: "[Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems](https://doi.org/10.1007/s10109-026-00511-9)"
         authors:
           - "**Fang, W.**"
           - "Zhang, W."
         journal: "Journal of Geographical Systems"
         date: 2026
 
-      - title: "Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia"
-        url: "https://doi.org/10.1007/s11524-026-01077-z"
+      - title: "[Urban–Rural Disparities in Geographic Healthcare Accessibility: A Comparative Study of Nigeria and Zambia](https://doi.org/10.1007/s11524-026-01077-z)"
         authors:
           - "**Fang, W.**"
           - "Zhang, W."
@@ -86,17 +84,15 @@ cv:
         date: 2026
 
       - title: "A harmonised framework for assessing geographic healthcare access across the rural-urban continuum"
-        url: "https://doi.org/10.1038/s44528-026-00017-2"
         authors:
           - "Zhang, W."
           - "**Fang, W.**"
           - "Chamberlain, H."
           - "et al."
-        journal: "Communications Health (Co-first autho)"
+        journal: "Communications Health (Co-first author, accepted)"
         date: 2026
 
-      - title: "Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016"
-        url: "https://doi.org/10.1007/s10901-021-09898-x"
+      - title: "[Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016](https://doi.org/10.1007/s10901-021-09898-x)"
         authors:
           - "Li, J."
           - "**Fang, W.**"
@@ -115,18 +111,16 @@ cv:
         journal: "Cities"
         date: 2025
 
-      - title: "Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data"
-        url: "https://doi.org/10.21203/rs.3.rs-9877361/v1"
+      - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.21203/rs.3.rs-9877361/v1)"
         authors:
           - "Zhang, W."
           - "**Fang, W.**"
           - "Sorichetta, A."
           - "et al."
-        journal: "Preprint (Co-first autho)"
+        journal: "Preprint (Co-first author)"
         date: 2026
 
-      - title: "A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023"
-        url: "https://doi.org/10.12688/verixiv.3242.1"
+      - title: "[A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023](https://doi.org/10.12688/verixiv.3242.1)"
         authors:
           - "Zhang, W."
           - "McKeen, T."
@@ -136,8 +130,7 @@ cv:
         journal: "Gates Open Research"
         date: 2026
 
-      - title: "A stochastic approach to integerise floating-point estimates in gridded population mapping"
-        url: "https://doi.org/10.1080/13658816.2025.2568721"
+      - title: "[A stochastic approach to integerise floating-point estimates in gridded population mapping](https://doi.org/10.1080/13658816.2025.2568721)"
         authors:
           - "Zhang, W.B."
           - "Sorichetta, A."
@@ -149,8 +142,7 @@ cv:
         journal: "International Journal of Geographical Information Science"
         date: 2025
 
-      - title: "Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City"
-        url: "https://doi.org/10.3969/j.issn.1001-4616.2019.01.020"
+      - title: "[Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City](https://doi.org/10.3969/j.issn.1001-4616.2019.01.020)"
         authors:
           - "Zhang, Wen-Bin"
           - "**Fang, W.**"

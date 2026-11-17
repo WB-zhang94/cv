@@ -137,9 +137,25 @@ cv:
 
     Publications:
       - title: "[Daily mobility response to heat are associated with regional mortality risk](https://doi.org/10.48550/arXiv.2605.01650)"
+        authors:
+          - "**Zhang, W.-B.***"
+        journal: "arXiv"
+        date: 2026
       - title: "[Global assessment of domestic visits to protected areas as a pressure on biodiversity](https://doi.org/10.48550/arXiv.2605.01650)"
+        authors:
+          - "**Zhang, W.-B.***"
+        journal: "arXiv"
+        date: 2026
       - title: "[Global urban populations exposed to heat stress while liviing in poverty](https://doi.org/10.48550/arXiv.2605.01650)"
+        authors:
+          - "**Zhang, W.-B.***"
+        journal: "arXiv"
+        date: 2026
       - title: "[Distribution-Aware Spatial Scaling: Quantile Representations Mitigate Aggregation Effects in Population Disaggregation](https://doi.org/10.48550/arXiv.2605.01650)"
+        authors:
+          - "**Zhang, W.-B.***"
+        journal: "arXiv"
+        date: 2026
       
       - title: "[Geospatial foundation-model embeddings improve population estimation unevenly across space and scale](https://doi.org/10.48550/arXiv.2605.01650)"
         authors:

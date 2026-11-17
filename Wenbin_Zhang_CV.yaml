@@ -145,16 +145,6 @@ cv:
         journal: "arXiv"
         date: 2026
       
-      - title: "[An entropogram-based Random Field model for categorical geospatial data prediction](https://doi.org/10.1080/13658816.2026.2650365)"
-        authors:
-          - "Zhang, W.-B."
-          - "Ge, Y."
-          - "Wan, X."
-          - "Lai, S."
-          - "Atkinson, P.M."
-        journal: "International Journal of Geographical Information Science"
-        date: 2026
-      
       - title: "[Global high-resolution gridded population estimate datasets 2015-2030](https://doi.org/10.12688/verixiv.3477.1)"
         authors:
           - "Tatem, A.J."

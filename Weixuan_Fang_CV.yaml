@@ -83,7 +83,7 @@ cv:
         journal: "Journal of Urban Health"
         date: 2026
 
-      - title: "A harmonised framework for assessing geographic healthcare access across the rural-urban continuum"
+      - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum](https://doi.org/10.1038/s44528-026-00017-2)"
         authors:
           - "Zhang, W."
           - "**Fang, W.**"
@@ -92,32 +92,13 @@ cv:
         journal: "Communications Health (Co-first author, accepted)"
         date: 2026
 
-      - title: "[Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016](https://doi.org/10.1007/s10901-021-09898-x)"
-        authors:
-          - "Li, J."
-          - "**Fang, W.**"
-          - "Shi, Y."
-          - "Ren, C."
-        journal: "Journal of Housing and the Built Environment"
-        date: 2022
-
-      - title: "Assessing the impacts of gridded population model choice on degree of urbanisation metrics"
-        url: "https://doi.org/10.1016/j.cities.2025.106293"
-        authors:
-          - "Zhang, W.B."
-          - "Woods, D."
-          - "**Fang, W.**"
-          - "et al."
-        journal: "Cities"
-        date: 2025
-
-      - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.21203/rs.3.rs-9877361/v1)"
+      - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.1016/j.compenvurbsys.2026.102561)"
         authors:
           - "Zhang, W."
           - "**Fang, W.**"
           - "Sorichetta, A."
           - "et al."
-        journal: "Preprint (Co-first author)"
+        journal: "Computers, Environment and Urban Systems (Co-first author)"
         date: 2026
 
       - title: "[A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023](https://doi.org/10.12688/verixiv.3242.1)"
@@ -141,7 +122,25 @@ cv:
           - "et al."
         journal: "International Journal of Geographical Information Science"
         date: 2025
+        
+      - title: "[Assessing the impacts of gridded population model choice on degree of urbanisation metrics](https://doi.org/10.1016/j.cities.2025.106293)"
+        authors:
+          - "Zhang, W.B."
+          - "Woods, D."
+          - "**Fang, W.**"
+          - "et al."
+        journal: "Cities"
+        date: 2025
 
+      - title: "[Assessing economic, social and environmental impacts on housing prices in Hong Kong: a time-series study of 2006, 2011 and 2016](https://doi.org/10.1007/s10901-021-09898-x)"
+        authors:
+          - "Li, J."
+          - "**Fang, W.**"
+          - "Shi, Y."
+          - "Ren, C."
+        journal: "Journal of Housing and the Built Environment"
+        date: 2022
+        
       - title: "[Evaluation of Production–Living–Ecology Integration Based on Intrinsic Spatial Distance: A Case Study of Yangzhong City](https://doi.org/10.3969/j.issn.1001-4616.2019.01.020)"
         authors:
           - "Zhang, Wen-Bin"

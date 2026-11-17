@@ -136,10 +136,49 @@ cv:
         date: 2026      
 
     Publications:
+      - title: "[Geospatial foundation-model embeddings improve population estimation unevenly across space and scale](https://doi.org/10.48550/arXiv.2605.01650)"
+        authors:
+          - "**Zhang, W.-B.***"
+          - "Cleary, E."
+          - "Rowe, F."
+          - "et al."
+        journal: "arXiv"
+        date: 2026
+      
+      - title: "[An entropogram-based Random Field model for categorical geospatial data prediction](https://doi.org/10.1080/13658816.2026.2650365)"
+        authors:
+          - "Zhang, W.-B."
+          - "Ge, Y."
+          - "Wan, X."
+          - "Lai, S."
+          - "Atkinson, P.M."
+        journal: "International Journal of Geographical Information Science"
+        date: 2026
+      
+      - title: "[Global high-resolution gridded population estimate datasets 2015-2030](https://doi.org/10.12688/verixiv.3477.1)"
+        authors:
+          - "Tatem, A.J."
+          - "Bondarenko, M."
+          - "Woods, D."
+          - "McKeen, T."
+          - "Cihan, D."
+          - "Hilton, J."
+          - "Cunningham, A."
+          - "Tejedor-Garavito, N."
+          - "Priyatikanto, R."
+          - "Brinkhoff, T."
+          - "**Zhang, W.**"
+          - "Nosatiuk, B."
+          - "Vataga, E."
+          - "Tzavidis, N."
+          - "Sorichetta, A."
+        journal: "Gates Open Research"
+        date: 2026
+    
       - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum: case studies from Nigeria and Zambia](https://doi.org/10.1038/s44528-026-00017-2)"
         authors:
           - "**Zhang, W.-B.***"
-          - "Fang, W.†"
+          - "Fang, W."
           - "Chamberlain, H."
           - "Liu, H."
           - "Liang, L."
@@ -151,7 +190,23 @@ cv:
         journal: "Communications Health"
         date: 2026
         
-      - title: "[Entropogram-based Random Field Model for Categorical Geospatial Data Prediction](https://doi.org/10.1080/13658816.2026.2650365)"
+      - title: "[Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems](https://doi.org/10.1007/s10109-026-00511-9)"
+        authors:
+          - "Fang, W."
+          - "**Zhang, W.***"
+        journal: "Journal of Geographical Systems"
+        date: 2026
+        
+       - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.1016/j.compenvurbsys.2026.102561)"
+        authors:
+          - "**Zhang, W.***"
+          - "Fang, W."
+          - "Sorichetta, A."
+          - "et al."
+        journal: "Computers, Environment and Urban Systems"
+        date: 2026 
+        
+      - title: "[An Entropogram-based Random Field Model for Categorical Geospatial Data Prediction](https://doi.org/10.1080/13658816.2026.2650365)"
         authors:
           - "**Zhang, W.-B.***"
           - "Ge, Y."
@@ -160,7 +215,26 @@ cv:
           - "Atkinson, P. M."
         journal: "International Journal of Geographical Information Science"
         date: 2026
-    
+        
+       - title: "[A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023](https://doi.org/10.12688/gatesopenres.16394.1)"
+        authors:
+          - "**Zhang, W.**"
+          - "McKeen, T."
+          - "Priyatikanto, R."
+          - "Fang, W."
+          - "et al."
+        journal: "Gates Open Research"
+        date: 2026
+      
+      - title: "[Global subnational population estimates disaggregated by age and sex for 2010–2030](https://doi.org/10.12688/verixiv.3308.1)"
+        authors:
+          - "Cihan, D."
+          - "Hilton, J."
+          - "**Zhang, W.**"
+          - "et al."
+        journal: "Gates Open Research"
+        date: 2026
+      
       - title: "[Inequality between cooling demand and electricity use is projected to widen through 2100](https://doi.org/10.1038/s44458-026-00165-0)"
         authors:
           - "Liang, L."
@@ -249,14 +323,15 @@ cv:
         journal: "Cities"
         date: 2025
 
-      - title: "[High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023)](https://doi.org/10.12688/verixiv.1584.1)"
+      - title: "[High Spatial Resolution Building Characteristics for the Global South: Insights from the Google Open Buildings Temporal Dataset (2016–2023)](https://doi.org/10.12688/gatesopenres.16386.1)"
         authors:
           - "Priyatikanto, R."
           - "Chamberlain, H."
           - "Bondarenko, M."
           - "**Zhang Wen-Bin**"
-          - "et al."
-        journal: "VeriXiv"
+          - "Tejedor-Garavito, N."
+          - "Tatem, A. J."
+        journal: "Gates Open Research"
         date: 2025
 
       - title: "[Optimizing the detection of emerging infections using mobility-based spatial sampling](https://doi.org/10.1016/j.jag.2024.103949)"

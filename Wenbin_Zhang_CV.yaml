@@ -136,7 +136,7 @@ cv:
         date: 2026      
 
     Publications:
-      - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum: case studies from Nigeria and Zambia](https://doi.org/10.21203/rs.3.rs-8225035/v1)"
+      - title: "[A harmonised framework for assessing geographic healthcare access across the rural-urban continuum: case studies from Nigeria and Zambia](https://doi.org/10.1038/s44528-026-00017-2)"
         authors:
           - "**Zhang, W.-B.***"
           - "Fang, W.†"
@@ -148,7 +148,7 @@ cv:
           - "Dijkstra, L."
           - "Tatem, A. J."
           - "Sorichetta, A."
-        journal: "Communications Health (under review)"
+        journal: "Communications Health"
         date: 2026
         
       - title: "[Entropogram-based Random Field Model for Categorical Geospatial Data Prediction](https://doi.org/10.1080/13658816.2026.2650365)"
@@ -161,7 +161,7 @@ cv:
         journal: "International Journal of Geographical Information Science"
         date: 2026
     
-      - title: "[Global cooling inequality under climate warming through 2100](https://doi.org/10.1007/s11524-026-01077-z)"
+      - title: "[Inequality between cooling demand and electricity use is projected to widen through 2100](https://doi.org/10.1038/s44458-026-00165-0)"
         authors:
           - "Liang, L."
           - "Chen, M."
@@ -174,8 +174,9 @@ cv:
           - "Han, M."
           - "**Zhang, W.**"
           - "Huang, D."
+          - "Zhang, N."
           - "Mi, Z."
-        journal: "Communications Sustainability (under review)"
+        journal: "Communications Sustainability"
         date: 2026
         
       - title: "[Interactions of SARS-CoV-2, influenza and respiratory syncytial virus influence epidemic timing and risk](https://doi.org/10.1038/s43856-026-01504-x)"

@@ -208,7 +208,7 @@ cv:
         journal: "Journal of Geographical Systems"
         date: 2026
         
-       - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.1016/j.compenvurbsys.2026.102561)"
+      - title: "[Hidden and fragmented patterns of morphological informality across African cities revealed by open geospatial data](https://doi.org/10.1016/j.compenvurbsys.2026.102561)"
         authors:
           - "**Zhang, W.***"
           - "Fang, W."
@@ -227,7 +227,7 @@ cv:
         journal: "International Journal of Geographical Information Science"
         date: 2026
         
-       - title: "[A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023](https://doi.org/10.12688/gatesopenres.16394.1)"
+      - title: "[A temporally harmonised gridded building-stock dataset for the Global South, 2016-2023](https://doi.org/10.12688/gatesopenres.16394.1)"
         authors:
           - "**Zhang, W.**"
           - "McKeen, T."
